@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Offensive Comment Classification on German Language Microposts.aux
+The style file: konvens2018.bst
+Database file #1: references.bib
+You've used 21 entries,
+            2490 wiz_defined-function locations,
+            698 strings with 9337 characters,
+and the built_in function-call counts, 10554 in all, are:
+= -- 1114
+> -- 383
+< -- 16
++ -- 132
+- -- 130
+* -- 707
+:= -- 1558
+add.period$ -- 93
+call.type$ -- 21
+change.case$ -- 149
+chr.to.int$ -- 21
+cite$ -- 21
+duplicate$ -- 498
+empty$ -- 828
+format.name$ -- 155
+if$ -- 2378
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 20
+newline$ -- 129
+num.names$ -- 63
+pop$ -- 187
+preamble$ -- 1
+purify$ -- 170
+quote$ -- 0
+skip$ -- 429
+stack$ -- 0
+substring$ -- 566
+swap$ -- 203
+text.length$ -- 16
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 164
+warning$ -- 0
+while$ -- 71
+width$ -- 27
+write$ -- 303
