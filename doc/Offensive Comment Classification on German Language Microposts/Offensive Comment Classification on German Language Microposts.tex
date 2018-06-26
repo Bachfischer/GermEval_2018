@@ -61,6 +61,7 @@
 \begin{document}
 
 \begin{acronym}[\hspace{1.8cm}]
+\acro{auc}[AUC]{Area Under Curve}
 \acro{cnn}[CNN]{Convolutional Neural Network}
 \acro{lstm}[LSTM]{Long Short-Term Memory}
  \acro{nlp}[NLP]{Natural Language Processing}
@@ -76,13 +77,13 @@
 
 \maketitle
 \begin{abstract}
-In this paper, we present two deep-learning based classifier systems for the identification of offensive comments in German Language microposts: A bidirectional LSTM and a CNN model. We compare the performance of our systems with a traditional, machine-learning based SVM classifier and evaluate our approach on Task 1 (binary classification) of the GermEval 2018 shared task where our best model is able to reach an F-1 score of 90.49\% 
+In this paper, we present two deep-learning based classifier systems for the identification of offensive comments in German Language microposts: A bidirectional LSTM and a CNN model. We compare the performance of our systems with a traditional, machine-learning based SVM classifier and evaluate our approach on Task 1 (binary classification) of the GermEval 2018 shared task where our best model (CNN) is able to reach a F1 score of 91.08\%.
 \end{abstract}
 
 \nocite{RN65}
 
 \section{Introduction}
-Modern communication devices and social media play an increasingly important role in our daily lives and the Internet has created opportunities for exchanging information with people from all over the globe in real-time. Unfortunately however, this freedom gets frequently abused, and hate speech and toxic comments are present in virtually all online communities. A 2017 report by Pew Research came to the conclusion that up to 41\% of all adults have personally experienced online harassment \cite{RN63}.
+Modern communication devices and social media play an increasingly important role in our daily lives and the Internet has created tremendous opportunities for exchanging information with people from all over the globe in real-time. Unfortunately however, this freedom gets frequently abused, and hate speech and toxic comments are present in virtually all online communities. A 2017 report by Pew Research even came to the conclusion that up to 41\% of all adults have personally experienced online harassment \cite{RN63}.
 \newline
 Automated detection routines to identify and block toxic messages have proven to be viable methods in shielding online communities from harassment \cite{RN27}. Training a computer to understand the emotions and opinions expressed in a document is a common task in the area of \ac{nlp}, and the results from previous publications  \cite{RN14} as well as a Kaggle competition \footnote{Toxic Comment Classification Challenge \url{https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge}} sponsored by Google Jigsaw have already shown promising results for the identification of toxic content in online messages.
 \newline
@@ -108,7 +109,7 @@ Training set & 1688 & 3321 & 5009 \\
 \newline
 The dataset is imbalanced, and the majority of the tweets (66\%) belong to the neutral class, whereas the remaining data (34\%) belongs to the offensive class. The microposts within the dataset were extracted exclusively from Twitter\footnote{Twitter social network - \url{https://twitter.com}} because the conference organizers regarded tweets \enquote{as a prototypical type of micropost}\footnotemark[2].
 \section{Experimental Setup}
-We present two classification systems in our research: a bidirectional \ac{lstm} model and a \ac{cnn} model. Both models were implemented in Python and make use of the Keras library \cite{RN64} for training the classifier. The experiments were performed on a workstation running Ubuntu 16.04 with 64 cores and 128 GB of RAM.
+We present two classification systems in our research: a bidirectional \ac{lstm} model and a \ac{cnn} model. Both models were implemented in Python and make use of the Keras library \cite{RN64} for training the classifier. In addition, we create a \ac{svm} classifier using Scikit-learn \cite{scikit-learn} and consider this as a baseline for testing and improving our deep-learning models. The experiments were performed on a workstation running Ubuntu 16.04 with 64 cores and 128 GB of RAM.
 \newline
 For this research we use the word vectors published by Deriu et al.\shortcite{RN62}. These vectors were trained on a total of 200 million tweets and have a dimensionality of $d=200$.
 \newline
@@ -153,7 +154,7 @@ The \ac{lstm} model in this research was derived from the works of Hochreiter an
 \newline 
 In this paper, we employ a bidirectional \ac{lstm} model with 64 units. The output is passed to two fully connected layers with 64 and 2 units respectively. To prevent our model from overfitting, we  apply the early-stopping technique \cite{RN79} in combination with a dropout of $d=0.5$ after the first dense layer as well as on the recurrent input signal of the \ac{lstm} units \cite{RN66}. We furthermore use \ac{relu} as the activation function of the first hidden layer \cite{RN71,RN72}. 
 \subsection{CNN Model}
-The \ac{cnn} model used in this research builds on the work of Kim \shortcite{RN35} who proposed to use a 2 layered \ac{cnn} to perform sentence classification in \ac{nlp} tasks. We create our model by using 1 convolutional layer with 64 filters (one layer consists of a convolution and a pooling layer). The output of the convolutional layers is then fed into a sequence of 2 dense layers.  As in the previous model, we again make use of the \ac{relu} function for the activation of the layers and apply early-stopping in combination with a dropout of $d=0.5$.
+The \ac{cnn} model used in this research builds on the work of Kim \shortcite{RN35} who proposed to use a 2 layered \ac{cnn} to perform sentence classification in \ac{nlp} tasks. We create our model by using 1 convolutional layer with 64 filters (one layer consists of a convolution and a pooling layer). The output of the convolutional layers is then fed into one dense layer of 64 units.  As in the previous model, we again make use of the \ac{relu} function for the activation of the layer and apply early-stopping in combination with a dropout of $d=0.5$.
 \subsection{Ensemble}
 To further improve the overall performance, we create an ensemble by combining the results from the \ac{lstm} and the \ac{cnn} model. To create the ensemble, we average the probability outputs from both models and apply the $argmax$ function to obtain the binary outputs. We then use these predictions for the final submission run of the GermEval 2018 task.
 \subsection{SVM Model}
@@ -162,7 +163,9 @@ As a baseline for the evaluation of our results, we use a simple \ac{svm} classi
 \textit{Since the official test set will only be published by the task organizers on July 17, 2018, the authors of this paper used a sample set with size $n=100$ obtained from the conference website to conduct their preliminary experiments. Once the official test data is published, this section will be updated and the final results will be submitted to the shared task.} 
 \newline
 \newline
-For the evaluation of our models, we use the script provided by the competition organizers to calculate the F-1 score on the test set (size $n=100$). In Table \ref{tbl:results}, we present the F1-scores for each category. We marked the best result in bold face. 
+For the evaluation of our models, we use the script provided by the competition organizers to calculate the F1-score on the test set (size $n=100$). In Table \ref{tbl:results}, we present the F1-scores for each category. We further marked the best result in bold face. 
+\newline
+The \ac{cnn} model achieved best results on the given dataset (F1 score of 91.08), followed by the \ac{lstm} and \ac{svm} model using 5-grams (both reach a F1-score of 90.49). In comparison to that, the ensemble (with a F1-score of 88.46) performs poorly in comparison to the \ac{svm} classifiers. We consider this result surprising, since we were actually able to create pretty good classifiers by just calculating the \ac{tf-idf} vectors on n-grams obtained from the tweet texts. 
 \newline 
 \begin{table}[h]
 \begin{center}
@@ -170,20 +173,22 @@ For the evaluation of our models, we use the script provided by the competition 
 \toprule   &  Offense &  Other &   Average  \\ \midrule
 SVM (1-grams) & 85.71 & 88.07 & 87.33  \\
 SVM (5-grams) & 88.89 & 90.91 & 90.49  \\
-LSTM & 88.89 & 90.91 & \textbf{90.49}  \\
-CNN & 80.00 & 85.22 & 84.10  \\
-LSTM \& CNN & 81.40 & 85.96 & 84.95  \\
+LSTM & 88.89 & 90.91 & 90.49  \\
+CNN & 91.09 & 90.01 & \textbf{91.08}  \\
+LSTM \& CNN & 86.67 & 89.09 & 88.46  \\
 \bottomrule
 \end{tabular}
 \end{center}
 \caption{\label{tbl:results} F1-Scores per Category}
 \end{table}
 \newline
-To evaluate the output of our classifiers, we further included the \ac{roc} metric in Figure 1. As we can see, the \ac{lstm} model clearly outperforms the \ac{cnn} model on the GermEval 2018 dataset. 
+To evaluate the output of our classifiers, we further included a \ac{roc} curve metric in Figure 1 where we calculated the \ac{auc} score for each of our classifers. As we can see, the \ac{svm} model trained on 5-grams generally outperforms our collection of deep-learning based classifiers. The ensemble, created from the \ac{lstm} and \ac{cnn} classifiers, achieves the second-best \ac{auc} score, followed by the \ac{svm} where we used 1-grams.
+\newline
+Overall, and given the current excitement about the use of deep-learning based classifiers for \ac{nlp} tasks, we consider these results surprising. Even though we provided the \ac{svm} classifier with only one feature (\ac{tf-idf}), it was able to achieve very promising results and outperformed our deep-learning systems. 
 \newline
 \textit{Once the official test data is released, we will update this section with an in-depth discussion of the results.}
 \section{Conclusion}
-The objective of our participation in the GermEval 2018 shared task was to evaluate the performance of deep-learning based models on the classification of offensive language in German microposts. We presented two systems and evaluated their results on the given dataset: a bidirectional \ac{lstm} model and a \ac{cnn} model. As a result from this research, we have shown that the \ac{lstm} model outperforms the \ac{cnn} model on the given GermEval dataset. 
+The objective of our participation in the GermEval 2018 shared task was to evaluate the performance of deep-learning based models on the classification of offensive language in German microposts. While using a \ac{svm} classifier as a baseline, we presented two deep-learning based systems and evaluated their results on the given dataset: a bidirectional \ac{lstm} model and a \ac{cnn} model. As a result from this research, we have shown that our \ac{cnn} model outperforms the \ac{lstm} model on the given GermEval dataset. 
 %By combining the output of the \ac{lstm} and \ac{cnn} model in a single ensemble, we are able to reach a F1-score of 84.95\% in the final evaulation of the GermEval competition.
 \newline
 We hope that online social network platforms can use our results to build systems that can successfully detect and combat toxicity in online conversations. Services such as the Perspective API \footnote{Perspective API - \url{https://www.perspectiveapi.com/}} are taking a step into the right direction, and we expect to see more fascinating research for making the Internet a more friendlier and welcoming place.

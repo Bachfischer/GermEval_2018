@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.4)  21 JUN 2018 17:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.4)  25 JUN 2018 22:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -388,8 +388,8 @@ e
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 77.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 77
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 78.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 78
 .
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
@@ -399,38 +399,38 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `ztmcm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 77
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 78
 .
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 77
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 78
 .
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 77
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 78
 .
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 77.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 78.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 77.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 78.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 77.
-LaTeX Font Info:    Try loading font information for U+lasy on input line 77.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 78.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 78.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 77.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 77.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 78.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 78.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
@@ -440,66 +440,66 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 Package acronym Info: Label `acro:nlp' newly defined as it shall be overridden
-although it is yet undefined on input line 87.
+although it is yet undefined on input line 88.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 87.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 88.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 87.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 88.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 87.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 88.
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
 [][]\OT1/ptm/m/n/9 (+20) Toxic Com-ment Clas-si-fi-ca-tion Chal-lenge
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
 \OT1/pcr/m/n/9 https : / / www\OML/ztmcm/m/it/9 :\OT1/pcr/m/n/9 kaggle\OML/ztmc
 m/m/it/9 :\OT1/pcr/m/n/9 com / c / jigsaw -[] toxic -[]
  []
 
 Package acronym Info: Label `acro:svm' newly defined as it shall be overridden
-although it is yet undefined on input line 89.
+although it is yet undefined on input line 90.
 Package acronym Info: Label `acro:lstm' newly defined as it shall be overridden
 
-although it is yet undefined on input line 89.
+although it is yet undefined on input line 90.
 Package acronym Info: Label `acro:cnn' newly defined as it shall be overridden
-although it is yet undefined on input line 89.
+although it is yet undefined on input line 90.
 [1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 
 ]
-Underfull \hbox (badness 2894) in paragraph at lines 132--132
+Underfull \hbox (badness 2894) in paragraph at lines 133--133
 \OT1/ptm/m/n/10.95 (+20) bekommt Merkel noch Gr[]une Untergangs-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--132
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
 \OT1/ptm/b/n/10.95 Preprocessed: \OT1/ptm/m/it/10.95 (+20) US-R-TOK US-R-TOK \O
 T1/ptm/m/n/10.95 (+20) jetzt
  []
 
 
-Underfull \hbox (badness 6461) in paragraph at lines 132--132
+Underfull \hbox (badness 6461) in paragraph at lines 133--133
 \OT1/ptm/m/n/10.95 (+20) bekommt merkel noch gr[]une untergangs-
  []
 
-LaTeX Font Info:    Try loading font information for T3+ptm on input line 134.
+LaTeX Font Info:    Try loading font information for T3+ptm on input line 135.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/tipa/t3ptm.fd
 File: t3ptm.fd 2001/12/31 TIPA font definitions
 )
 
-LaTeX Warning: Command \textpipe invalid in math mode on input line 134.
+LaTeX Warning: Command \textpipe invalid in math mode on input line 135.
 
 
-LaTeX Warning: Command \textpipe invalid in math mode on input line 134.
+LaTeX Warning: Command \textpipe invalid in math mode on input line 135.
 
 
-LaTeX Warning: Command \! invalid in math mode on input line 134.
+LaTeX Warning: Command \! invalid in math mode on input line 135.
 
 
-LaTeX Warning: Command \! invalid in math mode on input line 134.
+LaTeX Warning: Command \! invalid in math mode on input line 135.
 
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: OT1).
@@ -508,80 +508,88 @@ Package microtype Info: Loading generic protrusion settings for font family
 <roc_curve.png, id=11, 387.51173pt x 278.38403pt>
 File: roc_curve.png Graphic file (type png)
 <use roc_curve.png>
-Package pdftex.def Info: roc_curve.png  used on input line 148.
+Package pdftex.def Info: roc_curve.png  used on input line 149.
 (pdftex.def)             Requested size: 364.19664pt x 261.63852pt.
 Package acronym Info: Label `acro:relu' newly defined as it shall be overridden
 
-although it is yet undefined on input line 154.
+although it is yet undefined on input line 155.
 [2]
+Underfull \vbox (badness 5036) has occurred while \output is active []
+
 Package acronym Info: Label `acro:tf-idf' newly defined as it shall be overridd
 en
-although it is yet undefined on input line 160.
+although it is yet undefined on input line 161.
 Package acronym Info: Label `acro:sgd' newly defined as it shall be overridden
-although it is yet undefined on input line 160.
+although it is yet undefined on input line 161.
 Package acronym Info: Label `acro:roc' newly defined as it shall be overridden
-although it is yet undefined on input line 182.
+although it is yet undefined on input line 185.
+Package acronym Info: Label `acro:auc' newly defined as it shall be overridden
+although it is yet undefined on input line 185.
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--185
+Underfull \hbox (badness 10000) in paragraph at lines 163--190
 
  []
 
 
-Underfull \hbox (badness 3189) in paragraph at lines 162--185
+Underfull \hbox (badness 3189) in paragraph at lines 163--190
 \OT1/ptm/m/n/10.95 (+20) For the eval-u-a-tion of our mod-els, we use
  []
 
 
-Underfull \hbox (badness 2547) in paragraph at lines 162--185
-\OT1/ptm/m/n/10.95 (+20) in-cluded the [][]Re-ceiver Op-er-at-ing Char-ac-ter-i
-s-
+Underfull \hbox (badness 1014) in paragraph at lines 163--190
+\OT1/ptm/m/n/10.95 (+20) To eval-u-ate the out-put of our clas-si-fiers, we
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 163--190
+\OT1/ptm/m/n/10.95 (+20) very promis-ing re-sults and out-per-formed our
  []
 
 [3 <./roc_curve.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
+Underfull \hbox (badness 10000) in paragraph at lines 194--194
 [][]\OT1/ptm/m/n/9 (+20) Perspective API - $\OT1/pcr/m/n/9 https : / /
  []
 
 (./Offensive Comment Classification on German Language Microposts.bbl
+Underfull \vbox (badness 5245) has occurred while \output is active []
+
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
-
+ [4]
 Underfull \hbox (badness 2762) in paragraph at lines 81--87
 []\OT1/ptm/m/n/10 Chikashi No-bata, Joel Tetreault, Achint Thomas,
  []
 
-[4]
-Underfull \hbox (badness 1009) in paragraph at lines 140--146
+
+Underfull \hbox (badness 1009) in paragraph at lines 148--154
 []\OT1/ptm/m/n/10 Ellery Wul-czyn, Nithum Thain, and Lu-cas Dixon.
  []
 
-) [5
-
-] (./Offensive Comment Classification on German Language Microposts.aux) ) 
+) [5] (./Offensive Comment Classification on German Language Microposts.aux) ) 
 Here is how much of TeX's memory you used:
- 8143 strings out of 492647
- 122827 string characters out of 6129579
- 236589 words of memory out of 5000000
- 11683 multiletter control sequences out of 15000+600000
- 69463 words of font info for 246 fonts, out of 8000000 for 9000
+ 8152 strings out of 492647
+ 122910 string characters out of 6129579
+ 237657 words of memory out of 5000000
+ 11689 multiletter control sequences out of 15000+600000
+ 69582 words of font info for 248 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,13n,40p,853b,309s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr
-/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/
-2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2
-018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/201
-8/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2018/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/t
-exmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2018/texmf-dis
-t/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2018/texmf-dist/fonts/typ
-e1/urw/symbol/usyr.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/time
-s/utmb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.p
-fb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/
-local/texlive/2018/texmf-dist/fonts/type1/public/tipa/xipa10.pfb>
+{
+/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texl
+ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texli
+ve/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive
+/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2
+018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
+18/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2018/texmf
+-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2018/texmf-dist/fonts
+/type1/urw/symbol/usyr.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/
+times/utmb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr
+8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/tipa/xipa10.pfb>
 Output written on "Offensive Comment Classification on German Language Micropos
-ts.pdf" (5 pages, 562242 bytes).
+ts.pdf" (5 pages, 564512 bytes).
 PDF statistics:
  68 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream

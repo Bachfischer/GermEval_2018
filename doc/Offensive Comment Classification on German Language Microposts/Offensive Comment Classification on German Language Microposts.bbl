@@ -85,6 +85,14 @@ Chikashi Nobata, Joel Tetreault, Achint Thomas, Yashar Mehdad, and Yi~Chang.
   Wide Web, Montreal, Quebec, Canada, April 11-15 2016}, pages 145--153.
   International World Wide Web Conferences Steering Committee.
 
+\bibitem[\protect\citename{Pedregosa \bgroup et al.\egroup }2011]{scikit-learn}
+F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
+  M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, J.~Vanderplas, A.~Passos,
+  D.~Cournapeau, M.~Brucher, M.~Perrot, and E.~Duchesnay.
+\newblock 2011.
+\newblock Scikit-learn: Machine learning in {P}ython.
+\newblock {\em Journal of Machine Learning Research}, 12:2825--2830.
+
 \bibitem[\protect\citename{Prechelt}1998]{RN79}
 Lutz Prechelt.
 \newblock 1998.
