@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.4)  25 JUN 2018 22:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.4)  29 JUL 2018 20:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -505,7 +505,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-<roc_curve.png, id=11, 387.51173pt x 278.38403pt>
+<roc_curve.png, id=12, 387.51173pt x 278.38403pt>
 File: roc_curve.png Graphic file (type png)
 <use roc_curve.png>
 Package pdftex.def Info: roc_curve.png  used on input line 149.
@@ -514,8 +514,6 @@ Package acronym Info: Label `acro:relu' newly defined as it shall be overridden
 
 although it is yet undefined on input line 155.
 [2]
-Underfull \vbox (badness 5036) has occurred while \output is active []
-
 Package acronym Info: Label `acro:tf-idf' newly defined as it shall be overridd
 en
 although it is yet undefined on input line 161.
@@ -551,8 +549,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 194--194
  []
 
 (./Offensive Comment Classification on German Language Microposts.bbl
-Underfull \vbox (badness 5245) has occurred while \output is active []
-
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
@@ -571,7 +567,7 @@ Underfull \hbox (badness 1009) in paragraph at lines 148--154
 Here is how much of TeX's memory you used:
  8152 strings out of 492647
  122910 string characters out of 6129579
- 237657 words of memory out of 5000000
+ 237669 words of memory out of 5000000
  11689 multiletter control sequences out of 15000+600000
  69582 words of font info for 248 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -589,7 +585,7 @@ times/utmb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr
 8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></
 usr/local/texlive/2018/texmf-dist/fonts/type1/public/tipa/xipa10.pfb>
 Output written on "Offensive Comment Classification on German Language Micropos
-ts.pdf" (5 pages, 564512 bytes).
+ts.pdf" (5 pages, 564640 bytes).
 PDF statistics:
  68 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
