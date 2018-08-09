@@ -6,7 +6,7 @@ Meine Mutter hat mir erzählt, dass mein Vater einen Wahlkreiskandidaten nicht g
 @_StultaMundi Die Bibel enthält ebenfalls Gesetze des Zivil- und Strafrechts.	0.8627978543905224	0.13720214560947763
 "@Thueringen_ @Miquwarchar @Pontifex_de Man munkelt, Franziskus ist großer ""Kiss""- und ""Black Sabbath""-Fan! #RockOn"	0.9174402965752024	0.08255970342479753
 @hugresch @saltomentale Seit dem ist die Gesellschaft noch einmal deutlich vielfältiger geworden, auch durch die Globalisierung.	0.9237471487608947	0.07625285123910526
-Wenn man Mädchen bildet, bildet man Generationen - Aqeela Asifi, Gewinnerin des #NansenAward 2015.	0.9918736810869441	0.008126318913055939
+"""Wenn man Mädchen bildet, bildet man Generationen"" - Aqeela Asifi, Gewinnerin des #NansenAward 2015."	0.9918736810869441	0.008126318913055939
 "@FeePatzer Frauen zu einem ""Ja"" zu überreden, ist nicht selten erfolgreich. Viele Frauen wollen nicht als zu leicht zu haben angesehen werden. Oder mögen das Spiel. Oder wollen testen, ob er wirklich interessiert ist."	0.9309550090779275	0.06904499092207252
 @IvyandWoe Ich weiß halt, wie man Frauen zum Miauen bringt ☺	0.2765757910327279	0.7234242089672721
 Liebe Freunde, Gauck,das Symbol des Sklaventums!	0.986302134216907	0.013697865783092905
@@ -83,7 +83,7 @@ schläft MichaelSpreng eigentlich im Studio oder wie schafft er es immer da zu s
 Frau #Böttinger meine Meinung dazu ist sie sollten uns mit ihrem Pferdegebiss nicht weiter belästigen #WDR	0.8108596951889545	0.18914030481104552
 @rspctfl @houelle_beck @Innenwelttramp @ergroovt @ThomasMichael71 @ksemann2 @DrKassandraPari Dann hättest Du nichts dagegen, wenn ein Lehrer ein Zeichen d PKK im Unterricht trägt? Oder die Flagge Israels? Oder ein Anstecker der AfD?	0.79725774000113	0.2027422599988699
 @SPDNDS @HeikoMaas Wie blöd können die Niedersachsen doch sein ???	0.37554947338684286	0.6244505266131571
-@Reiterfee: @WHetzler @DanielMindon Tauber, ich würde sagen, die tatsächlichen Arschlöcher sitzen in der Regierung |LBR| SO IST ES!	0.03275272824247877	0.9672472717575212
+"""@Reiterfee: @WHetzler @DanielMindon Tauber, ich würde sagen, die tatsächlichen Arschlöcher sitzen in der Regierung"" |LBR| SO IST ES!"	0.03275272824247877	0.9672472717575212
 Toutes mes félicitations Jean-Luc! Fast 20 Prozent: ein grandioser Erfolg für die französische Linke! #Melenchon #Frankreichwahl	0.5678035984955866	0.4321964015044134
 @jdoeschner @nrwspd @spdde Die SPD sollte wohl besser auf ihre Umweltministerin hören als auf die lokale RWE-Lobby.	0.7584886627490743	0.2415113372509257
 @clydevpg Wo bleibt der private Wachdienst, der die in den Arsch tritt?	0.05240306989337207	0.9475969301066279
@@ -294,7 +294,7 @@ Wie kann eine Universität ihre Reputation auf einen Schlag um 100 Prozent steig
 @MartinSchulz Dürfen Jungen auch werden, was sie wollen?	0.8277657634910657	0.17223423650893435
 @MiataMuc @MartinDomig Ich hab keine Kinder 😝	0.8976337698369592	0.10236623016304079
 "Bedford-Strohm: ""Echtes Potenzial in der Ausweitung des Dialogs."" #Ökumene #Reformationsjubiläum"	0.8728673548969822	0.12713264510301778
-Der freiheitliche, säkularisierte #Staat lebt von Voraussetzungen, die er selbst nicht garantieren kann. Inzwischen merken wir, wie richtig #Böckenförde damit lag. #Vernunft, Maß, Verantwortungsgefühl und #Kompromissfähigkeit schwinden epidemisch.	0.7312439363856078	0.26875606361439225
+"""Der freiheitliche, säkularisierte #Staat lebt von Voraussetzungen, die er selbst nicht garantieren kann"". Inzwischen merken wir, wie richtig #Böckenförde damit lag. #Vernunft, Maß, Verantwortungsgefühl und #Kompromissfähigkeit schwinden epidemisch."	0.7312439363856078	0.26875606361439225
 "Angela Merkel und Martin Schulz sitzen gerade zusammen. Mit ihren Getreuen, aufrechten Christ- und Sozialdemokraten. Und nur ein Gedanke beherrscht ihr Tun. Sie wollen unseren ""Nutzen mehren und Schaden von uns wenden"". Nichts sonst. Glaubt mir!!"	0.2586891093125656	0.7413108906874344
 gammln auf 'n strand ...buddel in de hand ....😂	0.9377701037145576	0.06222989628544243
 @fckoeln “...un mir jon mit dir 🐐 |LBR| wenn et sin muss ☠️ |LBR| durch et Füer 🔥...“	0.8684468373451185	0.13155316265488146
@@ -347,7 +347,7 @@ Erpresste Einigung in Belgien macht #CETA nicht besser. Weiterhin gilt:GroKo mus
 @BWSpricht Genau. Wie goldig war da meine Kindheit zu jetzt, was Heimatgefühl betrifft.	0.8390705527730927	0.16092944722690727
 @Sakoelabo @Padit1337 @SawsanChebli Du bist jung und schön	0.9843310809790313	0.015668919020968706
 Thema #Auto oder #Zug: @DB_Info 25 Minuten zu spät, hier sitzen alle bei 10 Grad im Freien, keiner kann arbeiten. Nächstes Mal wieder 🚘	0.9586374872057303	0.041362512794269723
-@fina_74: Hallo Frau Merkel, wie lebt es sich eigentlich mit so einer großen Schuld und all dem Blut an den Händen? |LBR| DAS BLUT KLEBT!	0.2993732977136879	0.7006267022863121
+"""@fina_74: Hallo Frau Merkel, wie lebt es sich eigentlich mit so einer großen Schuld und all dem Blut an den Händen?"" |LBR| DAS BLUT KLEBT!"	0.2993732977136879	0.7006267022863121
 Das Faszinierende an der Existenz des heterosexuellen Mannes ist seine stoische Bereitschaft, die Arschkarte des Lebens so gelassen wie möglich zu ertragen.	0.807075967816638	0.19292403218336193
 @MuffPepper @ThomasMichael71 @FinkFinkmichael @sebastiankurz Wer hat Dich denn moralisch legitimiert?	0.9446825514952348	0.0553174485047652
 @Frank_Pasemann @ShahakShapira @DiePARTEI Ja, mir geht es zu gut. Und ich möchte nicht, dass sich das durch die Einwanderung islamischer Praktiken und Lehren ändert.	0.940460811126789	0.05953918887321097
@@ -377,7 +377,7 @@ Die dritte skurrile These stammt von Alexander Gauland. In einem Papier schreibt
 @ScottiRacer @FrankyB122 @MiataMuc @Tom174_ Biste so schlecht im Bett 😂😂😂	0.9825745397731155	0.01742546022688448
 Freie Völker der Welt,steht endlich auf,werdet wach! USA- die größte Völkermordzentrale!	0.8818781126275729	0.1181218873724271
 @rspctfl @Innenwelttramp @nadine_wickert @bruck_68 @ergroovt @ThomasMichael71 @houelle_beck @ksemann2 @DrKassandraPari Ich verzichte nicht auf Alkohol. Ich esse Schweinefleisch. Ich lasse mich von Männern ficken. Ich bin ein Ungläubiger.	0.5284346869188044	0.4715653130811956
-Kunst muss provozieren |LBR| Äh, nein. Aber, wenn man kein Talent hat, dann bleibt einem nur die Provokation.	0.9867467281122771	0.013253271887722856
+"""Kunst muss provozieren"" |LBR| Äh, nein. Aber, wenn man kein Talent hat, dann bleibt einem nur die Provokation."	0.9867467281122771	0.013253271887722856
 "@titanic das ist man ja schon ein ganz schlimmer Nazi wenn man jemand ""jagen"" oder ""entsorgen"" will. Aber die linksgedrehten dürfen hinrichten. 🙊🙈🙉"	0.07302737517002078	0.9269726248299792
 @AfD_Hamburg euer Tweet, gegen Lanz, interessiert niemanden, würde auch nicht Retweet... und von mir auch nicht, so schlagen wir Eure Lügen. Viel Spaß noch	0.9796630619970833	0.02033693800291672
 Und in Hessen?Die Verräter der SPD,die Kommunisten der Grünen und die Linke führen Gespräche .AHA!	0.49922788676939067	0.5007721132306093
@@ -415,7 +415,7 @@ Wenn Bio per se gesund ist, müsste einem Grünen der im Wald gesammelte Fliegen
 @tradingtheponzi |LBR| Maas muß weg, genau wie Merkel und Schäubele sollte seine Chance bekommen.	0.037922912016337684	0.9620770879836623
 Merkel wie ihr Vater,Bolchewisten und Landesverräter in einer Person.	0.02511527643407996	0.97488472356592
 Ich bin kein Jude und bin trotzdem ein jüdischerer Jude als @ShahakShapira.	0.991463880125121	0.008536119874879011
-Deutschland den Deutschen, Ausländer raus heißt heute ganz harmlos Remigration - der Tod der liberalen Demokratie kommt schleichend daher. #NoAfD #AfD	0.8123820643325806	0.18761793566741938
+"""Deutschland den Deutschen, Ausländer raus"" heißt heute ganz harmlos Remigration - der Tod der liberalen Demokratie kommt schleichend daher. #NoAfD #AfD"	0.8123820643325806	0.18761793566741938
 @oadiakosmos @Fjordspringer @transsimian @gselsbaer @TomBell46959788 @Schnubb36 @KosmosOadia @3rd_stone_f_sun @AlfredAndPaul @druzim @DasEbenbild @_Apuleius @karlrahner_sj @veronikusz @LadyLeliana @VJanusch @HELMA__D @ifw_recht @gbs_org Was meinst du? Es ging um die 10 Gebote. Du meinst die gelten nicht mehr und mit der Textstelle der Bibel wolltest du belegen, dass Mord usw. trotzdem verboten ist. Darauf hin habe ich dir dargelegt, dass diese Tatbestände dort nicht aufgeführt sind.	0.859881291751726	0.14011870824827394
 @HelgeThiessen @littlewisehen Der @littlewisehen weiß ne ganze Menge nicht 😁	0.8919348104806306	0.1080651895193694
 Wenn wir Glück haben, wird China die Welt beherrschen. Wenn wir Pech haben, der Islam.	0.9414262169068012	0.05857378309319878
@@ -430,7 +430,7 @@ Gewalt d spanischen Polizei inakzeptabel! Bürgerkrieg in #Katalonien muss verhi
 @martinsteiger @moinmoinsager Da können man hier und da noch besser werden, finde ich auch.	0.9898301699636286	0.010169830036371431
 @zawhie Ne, ich gucke schon gezielt. |LBR| Aber ich bin zum Beispiel so, dass ich es nicht direkt im Laden kaufen will, wenn ich weiß, dass ich es online günstiger kriege. |LBR| Warum sollte ich im Laden das doppelte zahlen?	0.9855002513589665	0.01449974864103353
 wie lange müssen wir uns heute noch die lauwarmen Nachrichten der #Tagesschau anschauen die jeder schon den ganzen Tag wahrgenommen hat #ard	0.25374787833995816	0.7462521216600418
-Die gesellschaftlichen Bemühungen um die #Integration von Migranten wurzeln in den im Grundgesetz normierten Grundwerten.	0.26269034608485264	0.7373096539151474
+"""Die gesellschaftlichen Bemühungen um die #Integration von Migranten wurzeln in den im Grundgesetz normierten Grundwerten."""	0.26269034608485264	0.7373096539151474
 @PatriciaD0305 @welt Das ausgerechnet Leute der AFD wie Sie jetzt auch noch die Jusos unterstützt, ist nichts anderes als eine vergiftete Praline!	0.9336966027092728	0.06630339729072715
 @KumaAndrea wie naiv bist du eigentlich? träum weiter	0.27836474088846297	0.721635259111537
 Europa wird überleben und auferstehen! Danke dir Schweiz,Land der Freiheit!	0.9965733226529604	0.0034266773470395966
@@ -459,7 +459,7 @@ Hier werden Sie jedoch nicht mehr benötigt.	0.9935140349594698	0.00648596504053
 Wir wünschen allen einen schönen #Maifeiertag.	0.9973663273361386	0.00263367266386134
 @MDR_SN @freies_wort |LBR| Die haben noch einen Arsch in der Hose.	0.006392623058886326	0.9936073769411137
 @stefanolix @siegfriedsfrom @TheHumbleJosh @APosener Man könnte in Deutschland nur noch die leben lassen, die Staatsbürger sind. |LBR| Alle anderen sind dann entweder Touristen oder GreenCard Inhaber mit befristetem Aufenthaltsrecht.	0.4985557448866258	0.5014442551133742
-Weltanschauliche Neutralität. Dieses Floskel ist so absurd gelogen. |LBR| Der deutsche Staat ist alles, aber nicht weltanschaulich neutral.	0.6007871562128573	0.3992128437871427
+"""Weltanschauliche Neutralität"". Dieses Floskel ist so absurd gelogen. |LBR| Der deutsche Staat ist alles, aber nicht weltanschaulich neutral."	0.6007871562128573	0.3992128437871427
 Jetzt bin ich gespannt, woher diese Wendung kommt und wie sie aufgelöst wird 😳 #Tatort	0.9018511756452734	0.0981488243547266
 @MDRAktuell JEDE Großveranstaltung wird heute zum Roulette ,Dank Merkels offene Grenzen!!!	0.5504270478665952	0.44957295213340476
 Kämpft gegen die Zersètzer wie Edathy und Friedrich. Steht auf uñd erfìndét unsere Idee ganz neu!	0.9483365710288422	0.05166342897115782
@@ -601,25 +601,25 @@ Liebe Freunde,denkt einfach.Der debile Klitschko,gefeiert der BRD medien.Also ei
 @HomeRogner Alles zum Schutz von Ausländern hierzulande. Nichts, wenns um eigene Volk ,Heimat,Tradition geht.	0.8369133915536304	0.16308660844636952
 @littlewisehen So habe ich ihn (u.a. als Herausgeber meiner Dissertation) auch erlebt. Ein ganz Großer: umfassend gebildet, wertorientiert, moderat und menschenfreundlich.	0.9076824469411895	0.0923175530588105
 Ständig gegen Deutsche hetzen und über unsere Kultur spotten, aber nicht die Eier haben zu einer Mohammed-Karikatur #LaferLichterLuther	0.48097886966625936	0.5190211303337406
-"Wir nehmen richtig viel Rückenwind mit aus dem #Reformationsjubiläum. Das wird die Zukunft prägen.“ - EKD-RV @landesbischof Bedford-Strohm
-@journ_ali @kelghazzali Welche Rechte vom Muslimen sind denn in Europa in Gefahr?
-Im Koran steht zwar, dass Moslems Ungläubige töten sollen, aber das hat nichts damit zu tun, wenn Moslems Ungläubige töten.
-@Claire_Farr0n @ARDKontraste Die Juden in Deutschland waren Deutsche und keine Anderen. Deutsche und Juden zum Gegensatzpaar zu machen ist völkisch und antisemitisch. Juden und Deutsche sind Identitäten mit Schnittmenge. Zumal aschkenasische Juden zum deutschen Kulturkreis gehören. Sie kommen vom Rhein.
-erster FC #Bayern #München zeichnet sich aus durch Scheintote als Trainer und #Schwerverbrecher im Management
-@flyingtomoon @mortimer_niels @deinTherapeut Ich weiß worum es geht: Um Frauen und ihre emotionalen Befindlichkeiten. Wie immer.
-@ntvde_Politik @krippmarie @CHerwartz |LBR| Der Roland Koch sollte zurück in die Politik und die Spitze übernehmen.
-@Christoph_Hi In Wahrheit leben die Jesiden auch gar nicht so religiös.
-Kämpft gegen die Ostküste, kämpft für die Freiheit Èuropas!
-@XYEinzelfall Deine Meldungen sollten tgl. im FS kommen.dann würde der letzte Schlafmichel endlich wach.
-@schlabonski @AlternativeNds ich hab ja auch nicht behauptet das DU das bestritten hast.
-@MiataMuc @mountainman1977 @sci_fanboi @Tom174_ Die sind wie ich ☺
-@BonkeKolja Was hätte A. H. mit solche skupellosen Tätern gemacht? Sicher das Richtige!
-@_StultaMundi Ich meine den Unsinn mit Todesstrafe für Shrimps, Kleidung und Homosexualität.
-Die Witze von @ShahakShapira gehen auf keine Vorhaut.
-Ich freue mich auf die erste weibliche Präsidentin Frankreichs Marine Le Pen. @cem_oezdemir #illner
-@tagesspiegel @MiRo_SPD Redet da etwa ein SPD Politiker von Rechtsstaat? |LBR| Dessen Parteifreund Steinmeier hätte als Minister kleine Kinder im Dreck verrecken lassen
-@Claudia_Mertes @TiniDo Ist halt Feminismus im fortgeschrittenen Stadium. Was erwartet Du da?
-@CSU Es als Errungenschaft zu verkaufen, den Bürgern weniger von deren eigenem Geld wegzunehmen ist schon mal sehr cool. Und wer hat die Straßenausbaubeiträge"" denn eigentlich eingeführt, wenn nicht die CSU?"	0.10884880858336243	0.8911511914166376
+"""Wir nehmen richtig viel Rückenwind mit aus dem #Reformationsjubiläum. Das wird die Zukunft prägen.“ - EKD-RV @landesbischof Bedford-Strohm"	0.7685452170153335	0.23145478298466649
+@journ_ali @kelghazzali Welche Rechte vom Muslimen sind denn in Europa in Gefahr?	0.3164007947912957	0.6835992052087043
+Im Koran steht zwar, dass Moslems Ungläubige töten sollen, aber das hat nichts damit zu tun, wenn Moslems Ungläubige töten.	0.05296734929548952	0.9470326507045105
+@Claire_Farr0n @ARDKontraste Die Juden in Deutschland waren Deutsche und keine Anderen. Deutsche und Juden zum Gegensatzpaar zu machen ist völkisch und antisemitisch. Juden und Deutsche sind Identitäten mit Schnittmenge. Zumal aschkenasische Juden zum deutschen Kulturkreis gehören. Sie kommen vom Rhein.	0.3483762333738276	0.6516237666261724
+erster FC #Bayern #München zeichnet sich aus durch Scheintote als Trainer und #Schwerverbrecher im Management	0.8712063946775284	0.12879360532247158
+@flyingtomoon @mortimer_niels @deinTherapeut Ich weiß worum es geht: Um Frauen und ihre emotionalen Befindlichkeiten. Wie immer.	0.6207906167023634	0.3792093832976367
+@ntvde_Politik @krippmarie @CHerwartz |LBR| Der Roland Koch sollte zurück in die Politik und die Spitze übernehmen.	0.8840210333820187	0.11597896661798131
+@Christoph_Hi In Wahrheit leben die Jesiden auch gar nicht so religiös.	0.9617605798997496	0.03823942010025037
+Kämpft gegen die Ostküste, kämpft für die Freiheit Èuropas!	0.8680191219615127	0.13198087803848738
+@XYEinzelfall Deine Meldungen sollten tgl. im FS kommen.dann würde der letzte Schlafmichel endlich wach.	0.8800024037935275	0.11999759620647249
+@schlabonski @AlternativeNds ich hab ja auch nicht behauptet das DU das bestritten hast.	0.9638512948064226	0.03614870519357734
+@MiataMuc @mountainman1977 @sci_fanboi @Tom174_ Die sind wie ich ☺	0.5545883342483243	0.4454116657516757
+@BonkeKolja Was hätte A. H. mit solche skupellosen Tätern gemacht? Sicher das Richtige!	0.4888374719506817	0.5111625280493183
+@_StultaMundi Ich meine den Unsinn mit Todesstrafe für Shrimps, Kleidung und Homosexualität.	0.9351679633289576	0.06483203667104243
+Die Witze von @ShahakShapira gehen auf keine Vorhaut.	0.749713835819278	0.250286164180722
+Ich freue mich auf die erste weibliche Präsidentin Frankreichs Marine Le Pen. @cem_oezdemir #illner	0.7701768441855023	0.22982315581449778
+@tagesspiegel @MiRo_SPD Redet da etwa ein SPD Politiker von Rechtsstaat? |LBR| Dessen Parteifreund Steinmeier hätte als Minister kleine Kinder im Dreck verrecken lassen	0.7263084604619129	0.2736915395380871
+@Claudia_Mertes @TiniDo Ist halt Feminismus im fortgeschrittenen Stadium. Was erwartet Du da?	0.41044513554326023	0.5895548644567398
+"@CSU Es als Errungenschaft zu verkaufen, den Bürgern weniger von deren eigenem Geld wegzunehmen ist schon mal sehr cool. Und wer hat die ""Straßenausbaubeiträge"" denn eigentlich eingeführt, wenn nicht die CSU?"	0.3425316452636915	0.6574683547363085
 @LukLktourscr Momentan haben wir noch nichts, aber später im November sicher!	0.9517785964252672	0.048221403574732764
 @MiataMuc @KonseqLiberal Als ob Ihr mich ärgern könntet 😎	0.9865460477560173	0.01345395224398268
 @FrauSchmauke @_StultaMundi Üblicherweise werden Ehen von Frauen gewollt. Es entspricht ihrem Bedürfnis nach Romantik und Versorgung.	0.11181395008372852	0.8881860499162715
@@ -675,7 +675,7 @@ Merkel und Gauck, ein ideales Paar! Sklaven der Ostküste!	0.15665641998425484	0
 So langsam verstehe ich: Jeder wurde schon einmal sexuell belästigt und missbraucht. Hab's kapiert. |LBR| Können wir jetzt das Thema wechseln?	0.7835835608612388	0.21641643913876119
 @jusos @MartinSchulz Näch meiner Erfahrung tritt die abgefuckte SPD die Menschenwürde mit Füßen - siehe das abartige Auswärtigen Amt und seine Schergen !!!	0.900878541917579	0.099121458082421
 @c_lindner sagt das es für Deutschland ein schwarzer Tag ist! Ja aber nur weil er sich gerade auf Phönix wieder in die Kameras drängt!@fdp	0.7720907275464446	0.22790927245355544
-Ich wünsche Ihnen einen schöneren Tag als mit der @Bahn. Frustrierte Mitarbeiter sind der Tod jedes Unternehemens wie der #Bahn	0.910443932854498	0.08955606714550203
+"""Ich wünsche Ihnen einen schöneren Tag als mit der @Bahn"". Frustrierte Mitarbeiter sind der Tod jedes Unternehemens wie der #Bahn"	0.910443932854498	0.08955606714550203
 Merkel kann ja zu den Grünen wechseln. Da gehört sie auch hin.	0.709132013488792	0.29086798651120804
 Wir brauchen ein deutsches FoxNews @jurgenelsasser @David_Bendels @Dieter_Stein @RogerKoeppel	0.5256774864005944	0.47432251359940564
 Präses Schwaetzer: „Die Welt ist so, dass sie in ihrer Frage nach Gott ganz anders ist, als noch vor 20 Jahren.“ Beschlussvorschlag zum Schwerpunktthema wird diskutiert. #ekdsynode	0.9701883615003168	0.0298116384996832
@@ -828,7 +828,7 @@ Diskussion &amp; Kritik: @martinoetting s Text über das bedingungslose #Grundei
 @ThomasMichael71 @JoeHellBack @alexa_jung60 @Tschonka @Gwen_Ny_ @dasstimmvieh @Mohrenpost Ich schon. Ich teile mit ihnen die Ablehnung der derzeitigen Flüchtlingspolitik und des Islam.	0.8834094053996857	0.11659059460031426
 @Sven__Klapproth @UncelSA_m @cleoSLS Da kennt wohl jemand Artikel 16A nicht	0.9950754956226422	0.0049245043773578235
 @GreenClaudia von deinen Islamisten , |LBR| Dschiadisten Freunden ,Und jagt dich olle ... Nackert über die Wies'n	0.40670538124811506	0.5932946187518849
-@Querkop: @WHetzler @DeisterEdith Was für ein dummer Tweet! |LBR| Von diesen Typen kritisiert werden ist eine Ehre! |LBR| Die Rotfaschisten zittern!	0.6822001282833423	0.31779987171665763
+"""@Querkop: @WHetzler @DeisterEdith Was für ein dummer Tweet!"" |LBR| Von diesen Typen kritisiert werden ist eine Ehre! |LBR| Die Rotfaschisten zittern!"	0.6822001282833423	0.31779987171665763
 ich glaube #ClaudiaRoth kann einfach nur peinlich. #Bundestag #Bundestagsvizepraesident	0.9002345864565704	0.09976541354342958
 @NB_pik Lange Rede, kurzer Sinn!💡 |LBR| Auf den Punkt gebracht: Quatschkopp⁉	0.6728255210792649	0.3271744789207352
 Wenn @APosener so gegen die AfD ist, warum schickt er dann nicht seine Frau los, um denen ganz ruhig zu erklären, dass es so nicht geht? |LBR| #TwitternWiePosener	0.6486280648848753	0.35137193511512466
@@ -891,10 +891,10 @@ Bei einer Direktwahl hätte Claudi Roth nichtmal 1%. Keiner will sie haben. #lan
 @schieritz genau. Ein Anwalt wird also mit den Taten des Klienten verstrickt. Sage ich doch. Sie haben ein seltsames Rechtsverständnis.	0.8552723753220969	0.14472762467790312
 @HeroJacques Unsinn. Es geht um Kompromisse, nicht um Gleichschaltung. Sie reden ja schon wie AfD-ler.	0.8429845147640568	0.1570154852359432
 @weidenkatzl |LBR| So ist es. Schwule dürfen ja immer bleiben. Pfui Teufel!	0.6770563475918173	0.3229436524081827
-Erst die Fremde lehrt uns, was wir an der Heimat besitzen. |LBR| Theodor Fontane, Wanderungen durch die Mark Brandenburg	0.6702257826398719	0.3297742173601281
+"""Erst die Fremde lehrt uns, was wir an der Heimat besitzen."" |LBR| Theodor Fontane, Wanderungen durch die Mark Brandenburg"	0.6702257826398719	0.3297742173601281
 Gott sei Dank sind wir #Merkel jetzt bald los #CDU	0.6498711308133305	0.3501288691866696
 @stefanolix Sie ist eine Rassistin. Und Sexistin.	0.7528515215059115	0.24714847849408855
-Es wäre fatal, wenn der Eindruck entstünde, es drehe sich alles nur um die Männer und wenn die sich entschieden haben, käme dann einfach noch irgend ne Frau an Mister X Seite (@ABaerbock) - stärkster emanzipatorischer Satz seit langem! #Grüne	0.31832480514848904	0.681675194851511
+"""Es wäre fatal, wenn der Eindruck entstünde, es drehe sich alles nur um die Männer und wenn die sich entschieden haben, käme dann einfach noch irgend ne Frau an Mister X Seite"" (@ABaerbock) - stärkster emanzipatorischer Satz seit langem! #Grüne"	0.31832480514848904	0.681675194851511
 Ehrung in der Staatskanzlei des Landes #Brandenburg: #BStU-Mitarbeiterin Andrea Bahr nimmt heute für Ihre Teile von „Die #Staatssicherheit und @Die_Gruenen“ den Postdoc-Preis 2017 entgegen. Hauptressource der 2016 erschienen Studie waren Dokumente des #StasiUnterlagenArchiv's.	0.9904847735582237	0.009515226441776298
 @AfDNeuigkeiten Rechtskonservativ wäre mir lieber .Liberal führt zur Dekadenz.	0.9552934858269088	0.04470651417309122
 bleibt #Merkel bleibt die #AFD und wächst #CDU	0.8972070146081277	0.10279298539187232
@@ -915,7 +915,7 @@ Das würde bedeuten, dass er seine eigene mohammedanische Sozialisierung, worunt
 @Der_Zyniker_2 schlimm das einer wie Volker Beck noch in Talkshows eingeladen wird	0.22205920913886013	0.7779407908611399
 @krippmarie |LBR| Die hat doch den Arsch offen.	0.0005909532480976587	0.9994090467519023
 Menschen, die legal nach Deutschland eingewandert sind und sich haben einbürgern lassen, müssen sich echt verarscht vorkommen.	0.19696567423550204	0.803034325764498
-Es muss gewährleistet sein, dass christl. #Flüchtlinge in unserem Land keine (...) Bedrängung aufgrund ihres Glaubens erfahren.	0.8266755314623321	0.1733244685376679
+"""Es muss gewährleistet sein, dass christl. #Flüchtlinge in unserem Land keine (...) Bedrängung aufgrund ihres Glaubens erfahren."""	0.8266755314623321	0.1733244685376679
 Diese @DoroBaer sieht immer mehr aus wie andrea nahles in den Klamotten einer übergewichtigen Nutte. #maischberger	0.4685839116369783	0.5314160883630217
 Denn NordSyrien ist in Afrika.	0.9464268412024512	0.05357315879754872
 @klausfenn @No934 Grundsätzlich ist das natürlich nicht umsonst. Ich muss auch Miete, Personal usw. bezahlen. Ich mache Ausnahmen in besonders krassen oder wichtigen Fällen. Aktuell geht es mir um ein paar gerichtlich zu klärende Präzedenzfälle. Die ich auch teilweise subventioniere.	0.9924932356616675	0.00750676433833255
@@ -1030,7 +1030,7 @@ Hier müssen wir einen deutlichen Schlussstrich ziehen. Auch die Imame müssen s
 Bei der #UNISONO-Verlosung bis 30.Juni an @unoflucht spenden &amp; exklusive Preise gewinnen. Wie? ➡️ unisono-konzert.de | @NRuegenberg	0.9859742677195148	0.014025732280485245
 Das ist moderner Werwolf! Feind erkennen,benennen,ihn lächerlich machen!	0.621829380193196	0.378170619806804
 @HLNbg mir ist die vollkommen egal.	0.7961599425580187	0.20384005744198133
-@gerrie352: @WHetzler Die Raute des Todes. |LBR| ALSO DIE VERBRECHERIN ANPRANGERN! |LBR| OHNE RÜCKSICHT!	0.7712807244377193	0.2287192755622807
+"""@gerrie352: @WHetzler Die Raute des Todes."" |LBR| ALSO DIE VERBRECHERIN ANPRANGERN! |LBR| OHNE RÜCKSICHT!"	0.7712807244377193	0.2287192755622807
 und wieder ein 30-minütige Werbesendung für liksGrüne Propaganda #heuteshow	0.22618706659455678	0.7738129334054432
 @kjempeslu @connor_larkin Nirgendwo steht, dass man auf dumme Fragen von Unbekannten ohne Ende antworten muss.	0.8673279484055794	0.13267205159442066
 @DerLiuhvan Wer hat das Schaubild erstellt? Die PKS ist mit Sicherheit nicht die Quelle. Behaupten kann man viel...	0.9552375760084676	0.04476242399153238
@@ -1077,7 +1077,7 @@ Linke und AfD Seit' an Seit', beobachtet @HugoMuellerVogg	0.5896333709287391	0.4
 statt diesen kriminellen #Ausländer noch im Fernsehen zu zeigen sollte man ihn lieber rausschmeißen @aktuelleStunde #WDR	0.22682262688376387	0.7731773731162361
 Die #AfD ist eine Melange aus Halbwahrheiten und Hysterie. #NoAfD	0.24709077492014042	0.7529092250798596
 @Mama_arbeitet @annika_schach @herr_unbekannnt Frauen sind nicht benachteiligt. Sie persönlich sind ja auch in der Politik. Nur weil Frau mal für etwas arbeiten muss, ist das keine Benachteiligung.	0.692281418810866	0.307718581189134
-@Thora_Rhodan: @WHetzler @gerrie352 Einsperren in eine Anstalt..... |LBR| NEIN-WEGEN HOCHVERRAT SOFORT ANKLAGEN!	0.9510335971643069	0.048966402835693104
+"""@Thora_Rhodan: @WHetzler @gerrie352 Einsperren in eine Anstalt....."" |LBR| NEIN-WEGEN HOCHVERRAT SOFORT ANKLAGEN!"	0.9510335971643069	0.048966402835693104
 @mj123451 Im Nationalsozialismus diente Pimpf ab 1933 als Dienstgrad für 10- bis 14-jährige Mitglieder des Deutschen Jungvolks. Nach bestandener „Pimpfenprobe“ durften sie auch den Schulterriemen und das HJ-Fahrtenmesser tragen.	0.7103075329896822	0.2896924670103178
 tut mir leid aber diese, in meinen Augen, strunzdumme Frau #Schwesig von der #SPD schaue ich mir nicht länger an bei #MaybritIllner und tschüss	0.783178329939061	0.21682167006093897
 @obskurOlaph Die FDP hat es doch richtig gemacht. Sondiert und die Idiotie erkannt. Und daraufhin die Sondierung abgebrochen.	0.9763544815117327	0.02364551848826738
@@ -1111,7 +1111,7 @@ Bätschi Bätschi SPD ----sind wir im Kimdergarten!!! Frau Nahles???	0.955264021
 @NoHateSpeechDE @Arnd_Diringer Es ist offensichtlich, dass Euer Ziel allein darin besteht, Euch politisch nicht genehme Meinungen zu verbieten.	0.9980250587899978	0.0019749412100021554
 @MiataMuc Hier steht sowas aber nichts rum. Berlin ist arm	0.9583664957328537	0.04163350426714635
 @Beatrix_vStorch Nicht das ich wüsste. Drum dämonisch!	0.9903377953210276	0.009662204678972395
-Im Jahr 2017 sahen sich bisher mehr als 2 Millionen Menschen zur Flucht aus ihren Ländern gezwungen. - @RefugeesChief	0.9751036050750703	0.024896394924929625
+"""Im Jahr 2017 sahen sich bisher mehr als 2 Millionen Menschen zur Flucht aus ihren Ländern gezwungen."" - @RefugeesChief"	0.9751036050750703	0.024896394924929625
 Sie wählten die #AfD und werden wieder das bekommen, was sie eigentlich verhindern wollten - eine #GroKo. #NoAfD	0.6442820183020538	0.3557179816979462
 #Fakt: Nur 15% der #Flüchtlinge sind im industrialisierten Teil der Welt.	0.6644086004397424	0.33559139956025763
 Endspurt in #Niedersachsen. Soziale Gerechtigkeit ist wählbar! #Linke	0.5720989002663266	0.42790109973367335
@@ -1213,19 +1213,19 @@ Wir wollen gar keine Flüchtlinge !!! Verpisst euch aus Deutschland !!! bevor wi
 @HolmHw @Jim_Beau_27 |LBR| Kann man bald nur noch mit Mundschutz in die Öffentlichkeit ?	0.7548776662828102	0.24512233371718986
 Liebe Freunde, wo ist eigentlich Klitschko geblieben?	0.9649550078405997	0.03504499215940032
 @petpanther0 @MiataMuc @FrankyB122 @mountainman1977 @MartinDomig So bin ich. Weisheit jenseits menschlicher Vorstellungskraft.	0.953926427003232	0.04607357299676798
-"@taiga1947: @Rambonelli @WHetzler Ich denke, |LBR| wir sind alle noch zu träge und |LBR| wahrscheinlich auch noch zu feige. |LBR| STEH AUF UND KÄMPFE!
-Wir beenden den Livestream zum #Friedenslicht mit einem Segen von Pater Philipp aus Maria Laach. #EinTagImAdvent
-Bis ~1960 war die Welt in Deutschland noch einigermaßen in Ordnung. Werte, Tradition, Politik, Kirche.
-@BFluche Genau deshalb wähle immer NPD statt euch Weicheier!
-@eysvog3l @krippmarie |LBR| Schalt den Eletrojuden nach(Dr,Axel Stoll) einfach aua.
-Harmonie statt Duell: Nach 95 min. großkoalitionärer Einigkeit war man schon froh, dass sie sich nicht umarmt haben. #tvduell #btw17
-@Tevsa Die Hauptgegner sind die etablierten Medien.
-Ohrfeige der Italiener für Renzi, aber auch für Berlin &amp; Brüssel. Kein Weiter-so in der Eurokrise! Nur andere Politik kann Rechte stoppen.
-@CayVL @KonseqLiberal Wessi ist er auch noch.
-Der Countdown läuft - ab 1.10.2017 entscheidet in #Deutschland nicht mehr das Geschlecht, sondern die #Liebe, ob man/frau* heiraten darf 🌈❤️
-@vadderland Na dann.👍Erlebe es wohl kaum noch, Bin Rentner,
-@Der_KaFee Neue Frage! Stasi-Akten dokumentieren, wie ein diktator.Staat in das Leben von Bürgern eingreift. Hilft als Gradmesser für heute.
-EKD-RV: Wir dürfen voller Vertrauen &amp; Zuversicht ins Jahr 2017 gehen. Der Herr ist der Geist &amp; wo der Geist des Herrn ist, da ist Freiheit“"	0.9106549096069047	0.08934509039309534
+"""@taiga1947: @Rambonelli @WHetzler Ich denke, |LBR| wir sind alle noch zu träge und |LBR| wahrscheinlich auch noch zu feige. |LBR| STEH AUF UND KÄMPFE!"	0.9082533827606264	0.09174661723937358
+Wir beenden den Livestream zum #Friedenslicht mit einem Segen von Pater Philipp aus Maria Laach. #EinTagImAdvent	0.8121156156249867	0.18788438437501334
+Bis ~1960 war die Welt in Deutschland noch einigermaßen in Ordnung. Werte, Tradition, Politik, Kirche.	0.6375342826570536	0.36246571734294647
+@BFluche Genau deshalb wähle immer NPD statt euch Weicheier!	0.9344119698566011	0.06558803014339891
+@eysvog3l @krippmarie |LBR| Schalt den Eletrojuden nach(Dr,Axel Stoll) einfach aua.	0.7034956064483449	0.2965043935516552
+Harmonie statt Duell: Nach 95 min. großkoalitionärer Einigkeit war man schon froh, dass sie sich nicht umarmt haben. #tvduell #btw17	0.9597367584776582	0.04026324152234187
+@Tevsa Die Hauptgegner sind die etablierten Medien.	0.1978167424348406	0.8021832575651594
+Ohrfeige der Italiener für Renzi, aber auch für Berlin &amp; Brüssel. Kein Weiter-so in der Eurokrise! Nur andere Politik kann Rechte stoppen.	0.6714880045258025	0.32851199547419746
+@CayVL @KonseqLiberal Wessi ist er auch noch.	0.9640620672715137	0.035937932728486284
+Der Countdown läuft - ab 1.10.2017 entscheidet in #Deutschland nicht mehr das Geschlecht, sondern die #Liebe, ob man/frau* heiraten darf 🌈❤️	0.7791931797096866	0.22080682029031343
+@vadderland Na dann.👍Erlebe es wohl kaum noch, Bin Rentner,	0.9030541132421441	0.09694588675785583
+@Der_KaFee Neue Frage! Stasi-Akten dokumentieren, wie ein diktator.Staat in das Leben von Bürgern eingreift. Hilft als Gradmesser für heute.	0.552578541600315	0.44742145839968495
+"EKD-RV: ""Wir dürfen voller Vertrauen &amp; Zuversicht ins Jahr 2017 gehen. Der Herr ist der Geist &amp; wo der Geist des Herrn ist, da ist Freiheit“"	0.9968945513001385	0.003105448699861498
 Gänsehautmoment beim #StaatspreisNRW: Navid Kermani dankt Wolfgang Schäuble und @HenrietteReker, die als Volksvertreter*innen beide beinahe ermordet worden wären - und trotzdem ihre Arbeit fortgesetzt haben.	0.9517400281843593	0.048259971815640706
 @THH_Tiere @manuring72 |LBR| Viel Erfolg zur Vermittlung, für die Süßen.	0.9240610613344329	0.07593893866556714
 @Strack_C Der Brunnenvergifterkomplex bei den abgefuckten Altparteien nimmt zu. Das gute an der Geschichte ist, dass es endlich mal einen aus der Elite getroffen hat. Hätte es Oma Müller erwischt, hätte es nicht den Hauch von Aufmerksamkeit gebracht.	0.6901173721722731	0.30988262782772696
@@ -1245,7 +1245,7 @@ Hab in der U-Bahn mal ne Frau angeschaut. Und dann wieder weggeschaut. |LBR| #ic
 @MartinSchulz Glaube ich weniger. Ich denke das halbe Leben wurde sinnlos versoffen.	0.9603656636364436	0.03963433636355643
 @ericcartmensmum @MiataMuc @HelgeThiessen Quatsch. Man will doch auch Sex in der Beziehung. Ansonsten bräuchte man ja nur Kumpel.	0.867792833039875	0.132207166960125
 @JedemEquality @awillburger Woher hast Du denn die Information, wieviele Steuergelder Konzerne zahlen müssen?	0.9906953263663122	0.009304673633687787
-"Echte #Integration fordert "" Beiträge sowohl der einheimischen als auch der zugewanderten Bevölkerung"" ein."	0.9019764094252407	0.09802359057475929
+"""Echte #Integration"" fordert "" Beiträge sowohl der einheimischen als auch der zugewanderten Bevölkerung"" ein."	0.9019764094252407	0.09802359057475929
 @MarioBuchinger @Tevsa Gesellschaftliche Verantwortung? Ich bin nicht in der Verantwortung, Frauen in Führungspositionen zu hieven.	0.9259570051878195	0.07404299481218043
 @neythomas Die Aussage, dass Spahn kein Recht habe, eine bestimmte Politik zu forcieren, finde ich viel schlimmer.	0.9104630024547755	0.08953699754522447
 @Neodeutscher @KonseqLiberal Ich bevorzuge zivilisierte Orte ohne Deutsche.	0.6209647661022638	0.3790352338977362
@@ -1292,7 +1292,7 @@ Ich habe Syrien niemals bereist, weil mein Vater sexuelle Belästigung befürcht
 können ja nicht alle so blöd sein wie der Herr der die Anzeigetafel nicht versteht @aktuelleStunde #WDR	0.74403487417232	0.25596512582768
 @kritischepress1 „Opferfest“ in der Steiermark - Muslime schächten fast eine komplette Schafherde |LBR| Zum Teufel mit den Muslems. Arme Schafe.	0.7314760288993025	0.2685239711006974
 @nopgy Sehr gut sollte in D auch so sein!	0.9934971152158121	0.006502884784187914
-#Integration ist ein vielschichtiger und wechselseitiger Prozess. Er fordert Zuwanderer und Aufnahmegesellschaft heraus.	0.4987907326797949	0.5012092673202051
+"""#Integration ist ein vielschichtiger und wechselseitiger Prozess. Er fordert Zuwanderer und Aufnahmegesellschaft heraus."""	0.4987907326797949	0.5012092673202051
 @a_huebner_law Sie sind es nicht gewohnt, dass jemand einmal hinter die Fassade der Weiblichkeit blickt und weibliche Forderungen und Wünsche seziert.	0.9489381540793704	0.05106184592062958
 @NoHateSpeechDE Gut, dass ich schwul bin, und mit der heutigen Frauengeneration nichts zu tun haben muss.	0.9824218350560775	0.01757816494392246
 @_tsukino_usako @allesevolution @Marenleinchen66 Deine Argumentation ist grandios. Typisch feministisch 😁	0.874441149708906	0.125558850291094
@@ -1395,7 +1395,7 @@ Die #AfD ist ein Haufen von Lügenschleudern, die aus finanziellen Motiven die l
 Wir haben das Recht Flüchtlinge Abzuschieben !!!! jetzt sofort!!!	0.7811092840866016	0.21889071591339831
 @dididumm Das schließt mein Tweet nicht aus. Auch ich meine nicht, dass man jedwede Meinung und Haltung als willkommene Infragestellung behandeln muss. Dialogunfähige und Fanatiker darf man ignorieren oder, wenn sie trollen, auch mal blocken.	0.8885529180950454	0.11144708190495452
 Die Huren des Systems sichern ihre Posten.Es ist der billige Dreck der hier regiert.	0.22826461063134396	0.771735389368656
-Der grundgesetzliche besondere Schutz von Ehe und Familie gilt auch für Migranten. #Integration	0.9790574943291379	0.02094250567086207
+"""Der grundgesetzliche besondere Schutz von Ehe und Familie gilt auch für Migranten."" #Integration"	0.9790574943291379	0.02094250567086207
 LSVD bei @kirchentag_de, heute 18.30Uhr Vier werden Eltern, Film und Gespräch mit u.a. C. Körner Regenbogenfamilienzentrum #Kirchentag	0.9732104985932579	0.02678950140674206
 @Namiimon @mountainman1977 @zeitonline Vermutlich hast Du Dich mit meinem Profil ebenso ausführlich beschäftigt, wie mit Geschlecht und Evolutionsbiologie.	0.538675608844673	0.461324391155327
 @MiRo_SPD @robinalexander_ @welt Das Auswärtige Amt und seine Botschaften und Konsulate sind eune Schande für Deutschland !!!	0.6161101690464277	0.3838898309535724
@@ -1407,7 +1407,7 @@ So Schluss jetzt für mich mit der @spdde , dadurch das es zur Großen Koalition
 Das System kann uns Pack nennen,darauf bin ich stolz! |LBR| Besser als eine Hure dieses Systems zu sein!	0.07133571984287745	0.9286642801571225
 @dominikrzepka Die SPD hatte in 150 Jahren noch NIE eine Frau als Parteivorsitzende! Aber darüber redet das LinksGrüne Journalisten Kartell natürlich nicht	0.8477692536458934	0.15223074635410666
 Nur noch Magie kann uns helfen ,die dämonischen Kräte, da oben in der Reg., zu vernichten!	0.9829356197712518	0.017064380228748215
-Familie und Geschlechterbeziehungen sind deshalb bei der Förderung der #Integration ein zentraler Ansatzpunkt.	0.7510153191424075	0.2489846808575925
+"""Familie und Geschlechterbeziehungen sind deshalb bei der Förderung der #Integration ein zentraler Ansatzpunkt."""	0.7510153191424075	0.2489846808575925
 Unser Unternehmen stagniert. Was tun? |LBR| Früher: |LBR| Wir brauchen Mitarbeiter mit neuen, kreativen und innovativen Ideen! |LBR| Heute: |LBR| Wir brauchen Mitarbeiter mit Vagina und anderer Hautfarbe!	0.36366380403409315	0.6363361959659068
 @FrankyB122 Glaubst Du etwa ich bin pervers? Ich trage doch keinen Vollbart!	0.9288950804259422	0.07110491957405785
 Wenn einer allein träumt, bleibt es ein Traum. Träumen wir aber alle gemeinsam, wird es Wirklichkeit. Dom Helder Camara	0.9881585928967339	0.011841407103266085
@@ -1427,7 +1427,7 @@ wie strunzdumm der Moderator des #Morgenmagazin ist merkt man daran, dass er gla
 @NilsBeyer_ @spdde Mein Respekt, es gibt auch noch vernünftige Leute bei den Jusos!	0.8040172911884071	0.19598270881159285
 Ein Hoch dem stolzem Volk ďer Palästinensern!	0.2311465625245609	0.7688534374754391
 Bewegung muss Partei ergreifen!Auf gehts!	0.9362520651035823	0.06374793489641777
-Es ist eine Schande, dass Deutschland bisher keine positive Antwort auf die Vorschläge von @EmmanuelMacron für Europa gegeben hat! - Navid Kermani #StaatspreisNRW	0.5047516298523251	0.4952483701476749
+"""Es ist eine Schande, dass Deutschland bisher keine positive Antwort auf die Vorschläge von @EmmanuelMacron für Europa gegeben hat!"" - Navid Kermani #StaatspreisNRW"	0.5047516298523251	0.4952483701476749
 @SarkumPmak Mir ist das egal. Wenn sie mein Blut nicht wollen, ist das deren Problem.	0.9334554485329714	0.06654455146702869
 "#BStU-Wanderausstellung in #Nürnberg eröffnet. Bis zum 25.10.15 im |LBR| Museum für Kommunikation,""Feind ist, wer anders denkt"" mit reg.Stories."	0.7966555400384432	0.20334445996155676
 @gamergateblogde Weil alle Medien aus Grünen bestehen.	0.11734389771764597	0.882656102282354
@@ -1460,7 +1460,7 @@ Nach Dr. Axel Stoll: Elektrojude	0.9496629320246608	0.050337067975339156
 @LupusLotarius @DerBerliiner |LBR| Muschi Offen Zeichen und herein spaziert nach Deutschland.	0.3260792202687238	0.6739207797312762
 und auch heute wieder ein beschissener #Tatort mit drittklassigen Laiendarstellern #ARD nichts für mich!	0.34256466381478223	0.6574353361852178
 @TiloJung @Die_Gruenen @cem_oezdemir Warum kümmern sich alle nur um die Türken? Die Deutsche Botschaft in Manila strotzt vor Menschenverachtung!!!	0.5492182368013263	0.4507817631986737
-So wirst du leben. #Europa in Solidarität A. Gidion+M. Rogg bringen überarbeiteten Kundgebungsentwurf zum Schwerpunktthema ein #ekdsynode	0.6997415704202434	0.3002584295797566
+"""So wirst du leben. #Europa in Solidarität"" A. Gidion+M. Rogg bringen überarbeiteten Kundgebungsentwurf zum Schwerpunktthema ein #ekdsynode"	0.6997415704202434	0.3002584295797566
 Sexuelle Belästigung? |LBR| Menschen sind sexuelle Wesen. Sexualität ist Spiel und Enttäuschung, Konflikt und Fehleinschätzung. |LBR| Werdet erwachsen!	0.947273639351877	0.052726360648122916
 "@BenjyR01 @allesevolution @DerDoktorant ""Race Realists"", die Doktorant mit seiner Frage offensichtlich entlarven will, verwenden den Begriff ""Rasse"" wohl eher im Sinne der biologischen Unterart. |LBR| Es zeugt von ihrer argumentativen und taktischen Schwäche, dass sie am Begriff ""Rasse"" festhalten."	0.5483798667417554	0.45162013325824457
 Ursula #Haverbeck wurde gerade vor dem Amtsgericht #Berlin zu sechs Monaten verurteilt, wegen Voksverhetzung. #Antisemitismus	0.9720901570415277	0.027909842958472268
@@ -1531,7 +1531,7 @@ wer die #Grünen wählt weiß nun das sie nach kurzer Zeit alle ihre Programmpun
 @Bernd_Quart |LBR| Befürchte ich auch. Israel scheut nicht A.Waffen abzufeuern und die USA stimmt zu.	0.6796479934828101	0.32035200651718987
 Nach Angaben der Vereinten Nationen (@UN) sind im Zuge des Konflikts im #Jemen bereits mehr als 7.000 Menschen getötet worden.	0.9894074040799646	0.010592595920035315
 @MDR_SAN @DemokratieMeile |LBR| Und nur 200 wackere aufrechte Deutsche gedenken der Opfer durch die AlliertenMördrtruppe in ihren Bombern.	0.06831749918708707	0.9316825008129129
-Der Umgang zw. ausländ. und dt. Katholiken in unseren Gemeinden kann zu einem Motor für ein zukunftsweisendes Zusammenleben werden.	0.9168371061479039	0.08316289385209612
+"""Der Umgang zw. ausländ. und dt. Katholiken in unseren Gemeinden kann zu einem Motor für ein zukunftsweisendes Zusammenleben werden."""	0.9168371061479039	0.08316289385209612
 @jusos Kühnert bricht deutlich in der Argumentation beim Thema Rente ein, Stephan Weil erteilt Kühnert beim Thema Rente die Leviten und muss Behauptungen des Juso Vorsitzenden zurückweisen!	0.9829571867092245	0.017042813290775477
 Freiheit, Sicherheit und Demokratie für Europa und Deutschland!	0.952185289011791	0.04781471098820896
 @Tom174_ @dwarfplanet @RF_WDA @tollversterker Ich bin Dein größter Fan.	0.9814260655764037	0.01857393442359635
@@ -1589,7 +1589,7 @@ Deutsche steht auf! Nieder mit Friedman und der Ostküste! |LBR| Freiheit für E
 @Simulacron2 @stefanolix @ZDF Die Kopftuchdichte nimmt in meinem Viertel jedenfalls seit Jahren kontinuierlich zu.	0.9854008042613274	0.014599195738672646
 @JoeyGerlach @PeterPa34083139 Ohne Mauern, Abgrenzung ,keine Sicherheit Herr Papst!	0.9352135280548988	0.06478647194510122
 wie strunzdumm ist eigentlich der #Innenminister von #NRW er macht es sich sehr einfach. Will uns der Innenminister eigentlich für dumm verkaufen wie wäre es mit mehr Polizei #cdu	0.7251685578923592	0.2748314421076407
-Überall dort, wo kirchl. Einrichtungen als Arbeitgeber (...) fungieren, ergeben sich Chancen für die berufl. Förderung von #Flüchtlingen.	0.1704876371797177	0.8295123628202823
+"""Überall dort, wo kirchl. Einrichtungen als Arbeitgeber (...) fungieren, ergeben sich Chancen für die berufl. Förderung von #Flüchtlingen."""	0.1704876371797177	0.8295123628202823
 @bernd471 @mollemopp Die Kirche wacht hier erst auf , wenn hier die ersten Pfarrer mit Messer geköpft werden	0.8074695346578972	0.19253046534210286
 @Tevsa Wenn der Staat was produziert, kommst immer was Gutes bei raus. |LBR| Die Geschichte beweist es!	0.9315895600022716	0.06841043999772844
 @Volker_Herres Und das Sat.1-Frühstücksfernsehen anscheinend auch.	0.98528451941525	0.01471548058475008
@@ -1756,7 +1756,7 @@ Daraufhin forderten die Beamten Verstärkung an und überwältigten den 22-Jähr
 Es lohnt sich für die ganze #Gesellschaft nicht nur das Trennende, sondern auch das #Verbindende zu suchen - Romeo Franz zum #Romaday	0.9784624462636233	0.02153755373637672
 @KonseqLiberal So leicht entkommt man mir nicht 😎	0.9382052724074086	0.06179472759259144
 @Manuel_k_b Ja, das ist so: Ich sehe, wenn ich das twittere, das Vorschaubild nicht, das dann automatisch eingeblendet wird. Hinweis von @BibAltonensis ist natürlich insofern berechtigt, dass es dann zweifellos da steht.	0.9779930954119218	0.02200690458807819
-@lec457: @agm_alain @NoHerrman @Joemino Merkel hat mehr Rückgrat als ihr ganzen Spakkos zusammen |LBR| Der Bolschewiki jammert!	0.03903762273155709	0.9609623772684429
+"""@lec457: @agm_alain @NoHerrman @Joemino Merkel hat mehr Rückgrat als ihr ganzen Spakkos zusammen"" |LBR| Der Bolschewiki jammert!"	0.03903762273155709	0.9609623772684429
 @Namiimon @ThomasMichael71 @dawa_zangpo @PalleMison @mountainman1977 @zeitonline 🤣 Ja und wenn ich es so empfinde, dann bin ich ein Meerschweinchen 🤣	0.9127598806265197	0.0872401193734803
 @MiataMuc @Tom174_ Zwei große Lieben? Nee, das ist blöd.	0.9709911445894316	0.02900885541056846
 Europäische Straßen sehen aus wie im Nahen Osten, voller verrückter Mossis die Juden den Tod wünschen, aber keine Sorge: |LBR| Das ist Vielfalt, das ist bunt und eine Islamisierung findet nicht statt.	0.4735372559785267	0.5264627440214733
@@ -1861,7 +1861,7 @@ Im Integrationskurs könnte Hr. Scheuer Artikel 4GG durcharbeiten u. lernen,dass
 ".@ProfSalzborn: ""Es gibt bisher kein systematisches Wissen über #Antisemitismus an Hochschulen."" #NEBA17"	0.9639710611951837	0.036028938804816266
 @StapelChipsYT @MiataMuc Oh, Sexualität ist ein durchaus nicht ganz unwichtiger Teil des Menschen.	0.9967194758898474	0.003280524110152611
 @spdde @hubertus_heil @MartinSchulz Was von seinen gemachten Versprechungen will er als Vizekanzler einlösen ???	0.8255053103489283	0.17449468965107168
-"@ZDFheute: CDU-Generalsekretär @petertauber beschimpft einen Facebook-Pöbler als Arschloch"" - finden Sie das in Ordnung?"" |LBR| TAUBER-DU ARSCH!"	0.015378635028240772	0.9846213649717592
+"""@ZDFheute: CDU-Generalsekretär @petertauber beschimpft einen Facebook-Pöbler als ""Arschloch"" - finden Sie das in Ordnung?"" |LBR| TAUBER-DU ARSCH!"	0.015378635028240772	0.9846213649717592
 @PolyPepper War in der Fraktion. Jetzt auf dem Weg zum Brandenburger Tor. Lichterzünden um 18.30. Mein Zeichen.	0.9183400645272379	0.08165993547276205
 #nuhr ist nur noch langweilig und deine Gäste nur noch #drittklassig #3sat	0.6577173464797996	0.3422826535202003
 @HollsteinM Stimmt 😃 Das ist die Deadline, die wirklich zählt... #Tatort 👍🏻	0.42915582877571734	0.5708441712242827
@@ -1871,10 +1871,10 @@ So einfach geht das für eine geknechtete Nation!Und die Sklaven feiern Obama!	0
 @GefrKamnitzer @manuring72 |LBR| Wo sind die wahren Männer? Aller verschwult oder was? Oh Mann hätte bei A.H. nie gegeben.	0.8410993362952288	0.15890066370477113
 Was ist nur aus dem Verfassungsgericht geworden? Diese Voskhule Administration tut dem Land nicht gut. #linksrotgrün #verschwult	0.5681037579941205	0.4318962420058795
 @FrankFranz |LBR| Genau. Armutsrenter=HartzIV ein Leben lang.	0.7120299288648181	0.2879700711351819
-Scouts sollen das #Reformationsjubiläum in Vorbereitung der #ekdsynode 2017 gezielt beobachten, schlägt das Präsidium vor.	0.9435003530150781	0.05649964698492189
+"""Scouts"" sollen das #Reformationsjubiläum in Vorbereitung der #ekdsynode 2017 gezielt beobachten, schlägt das Präsidium vor."	0.9435003530150781	0.05649964698492189
 @JochenBittner @APosener Vielleicht können Sie die Frau von Posener dazu überreden, den Hetzern ganz ruhig zu erklären, dass es so nicht geht.	0.9747717245142521	0.025228275485747874
 Sascha Spoun betont die Geschichte deutscher Hochschulen im Nationalsozialismus und die damit zusammenhängenden Kontinuitäten. #NEBA17	0.8886565942141146	0.1113434057858854
-Für eine solidarische Gesellschaft-gegen rechte Hetze Demo am Samstag um 13.30 Uhr am Alex. Bitte zahlreich erscheinen! @BerlinNazifrei	0.7587837619409944	0.24121623805900558
+"""Für eine solidarische Gesellschaft-gegen rechte Hetze"" Demo am Samstag um 13.30 Uhr am Alex. Bitte zahlreich erscheinen! @BerlinNazifrei"	0.7587837619409944	0.24121623805900558
 @rspctfl @Achtpanther @Kischeph @Volker_Beck Und ganz sicher bin ich als Schwuler nicht an der Seite des Islam.	0.9491741349343641	0.050825865065635904
 Viele herzliche Glückwünsche an @detzer_sandra &amp; Oliver Hildenbrand zur Wiederwahl als Vorsitzende der @GrueneBW! 🌻🌻 #ldkbw	0.9474103177086749	0.05258968229132507
 @brightsblog So ist es,dass nervt mich schon die ganz Zeit, dass sich die Kirchen nach der Wende als Helden und auch als Opfer aufgespielt haben. Die Realität sah völlig anders aus. Zahlreiche Pfaffen haben sehr gern mit der Stasi zusammen gearbeitet und Privilegien für sich herausgeschlagen.	0.7692955949051947	0.23070440509480533
@@ -2031,13 +2031,13 @@ Unterschied zwischen Schwulen und Hetero-Männern: |LBR| Schwule ficken um zu da
 "Es folgen Zitate aus der Schrift der Deutschen Bischofskonferenz ""#Integration fördern - Zusammenleben gestalten"" aus dem Jahr 2004 (!)."	0.9213466081373043	0.07865339186269572
 "@DonBarbone @SJeschor @hannes_elefant @ChSascha Worin unterscheiden sich diese Aussagen von der Aussage ""Faschisten aufs Maul?"" |LBR| Sind alles Aufrufe zur Gewalt gegen eine bestimmte Gruppe."	0.8076811024062491	0.19231889759375081
 @suSA_Best Hi, bitte schreib an info@atheist-refugees.com, wenn du Hilfe oder Mitarbeit anbieten möchtest. |LBR| Wir arbeiten über das Netzwerk der @gbs_org bundesweit, haben unseren Arbeitsmittelpunkt aber in #Köln.	0.9170206142014821	0.08297938579851799
-@daddy_4_you: @WHetzler @jageradeheraus @Piratenfrank Hetzer hör auf zu hetzen |LBR| EINFACHE SYSTEMLINGE GEHT SCHLAFEN.	0.4211770731464378	0.5788229268535622
+"""@daddy_4_you: @WHetzler @jageradeheraus @Piratenfrank Hetzer hör auf zu hetzen"" |LBR| EINFACHE SYSTEMLINGE GEHT SCHLAFEN."	0.4211770731464378	0.5788229268535622
 Wer schreibst eigentlich für #lanz die Texte?	0.8162613083463374	0.18373869165366266
 @heutejournal Ich hoffe dieses islamistische Dreckschwein wurde ohne Narkose operiert.	0.47463326181604226	0.5253667381839577
 Der @allesevolution hat meine Tweets zu #ichwars nicht zitiert 😭	0.8446933479000875	0.1553066520999125
 schlechte Woche. Da ist sie wieder die Moderatorin der @aktuelleStunde mit der alten schmoddrigen schwarzen Hose und fettigen Haaren #WDR	0.6954963496231559	0.30450365037684407
 Wo bleiben die befreienden Helden???	0.991517458541684	0.008482541458315923
-Es ist ein Fakt, dass mehr Mittel &amp; Spenden Leben retten. [...] Wir müssen alle tun, was wir können, um die Rohingya-Flüchtlinge irgendwie zu unterstützen. Ein Weg ist das Spenden. @KristinDavis, UNHCR-Sonderbotschafterin in #Bangladesch	0.791264759409941	0.20873524059005902
+"""Es ist ein Fakt, dass mehr Mittel &amp; Spenden Leben retten. [...] Wir müssen alle tun, was wir können, um die Rohingya-Flüchtlinge irgendwie zu unterstützen. Ein Weg ist das Spenden."" @KristinDavis, UNHCR-Sonderbotschafterin in #Bangladesch"	0.791264759409941	0.20873524059005902
 @zuerst_magazin @AfD_Support |LBR| Wann zieht endlich einer den Stecker ,um den Strom tot zu legen? Schutzwall EU?	0.8902314484182192	0.10976855158178084
 @claasen_nils @welt Ja warum glauben die Wähler wohl der SPD nicht, wenn ständig alles schlecht geredet wird, da mache ich nicht nur die Jusos für verantwortlich, sondern auch die Linken SPDler der ersten und zweiten Reihe!	0.9548943769392749	0.045105623060725096
 "#Journalisten des #europamagazin sind der deutschen Sprache nicht mächtig. Es heißt ""dieses Jahres"" und nicht ""diesen Jahres"" #ARD"	0.5951272812343489	0.4048727187656511
@@ -2152,40 +2152,40 @@ Wo ist eigentlich der Sklaveñstaat Amerika?	0.9245873727435943	0.07541262725640
 Dieter #Nuhr und die ewig Gestrigen, strunz langweilig	0.6571855591675886	0.34281444083241136
 Das ist die endgültige Umerziehung des Deutschen geplant 1943 in Amerika.	0.9772870274952824	0.02271297250471765
 dieser #Tatort ist ja wohl der allerletzte Scheiß #ARD und tschüss	0.08048316714209147	0.9195168328579085
-"#Ökumene herzlicher Wertschätzung“ - #EKD-Spitze um @landesbischof Bedford-Strohm trifft @Pontifex_de im Februar in Rom.
-@4Sonicc @DrKissler Übrigens braucht man zum Account lesen ja nicht mal jmd. zu folgen normalerweise.
-Jetzt frisst der Genderismus auch den Feminismus, so @bettinaroehl
-@Bartzissey Ist das nicht dieses Buch aus dem Adolf Hitler Verlag?
-Frau Merkel und ihre Lemminge! |LBR| Wer gibt ihnen die Befehle?
-@Achim7871 Reichsbürger Sind keine Gefahr, Aber Asylschmarotzer und Illegale.
-Wollte auf dem Weg zur Arbeit mein Paket abholen. |LBR| Aber, ach ja, es ist ja Feiertag. Ich werd irre!
-@DeutschPI2 Diese Ärzte sollte man ausweisen!
-„Für mich ist die Reformation ein geistlicher Aufbruch, in dem etwas von dem neuen Herz &amp; dem neuen Geist historisch wirksam geworden ist.“
-@doppel500 @christa_scheuer @anna_IIna Denen wünsch ich mehr als nur Krankheiten👽☠
-Merkel und ihrer Ostküstensatrapen sei Dank! Deutschland verkommt!
-@ericcartmensmum @HelgeThiessen @MiataMuc Immer mehr Männer erkennen halt, dass Heterosexualität nicht das Gelbe vom Ei ist.
-Lt. @TH24DeineNews wurde in #Arnstadt #Thüringen im Zeitraum 1. September bis 8. November eine eine zweiteilige Tafel, die an die Opfer der Schoa erinnert, beschädigt. #9Nov #Gedenken #Antisemitismus
-@SteinbachErika Schon mal eine Verbesserung. Davor haben sich die Grünen für jeden Scheinasylanten, jeden ausländischen Gewalttäter und jeden Islamisten eingesetzt.
-@MiataMuc @KonseqLiberal Yep. Welche andere Lösung sollte es geben? Der Anteil der Muslime in Europa steigt und damit das antisemitische Potential. Gleichzeitig sorgt das für intrakulturelle Verwerfungen und neuen Nationalismus/Rechtsextremismus.
-@mountainman1977 @ThiloAdamitz @MiataMuc Ich stehe eher auf Eicheln.
-@BWSpricht Abschieben. |LBR| ,Abschieben,Abschieben! Alle Parasiten aus Afrika.
-Der Sturm des Aussatzes auf Europa ist eröffnet!
-@Piratenfrank @Hevellia64 @JanFurchtenicht 👎Laß A. H. in Ruhe!
-@allesevolution @SteffenKrach Na toll. Jetzt bekomme ich ne Anzeige wegen Sexismus und seelischer Grausamkeit...
-ich will diese scheiß Migranten nicht
-@dennis_wieland @HeikoMaas Von mir aus kann der an seinem Geburtstag auch qualvoll verrecken.
-Kinder sollen ihren Islamunterricht bekommen aber im #Islam und nicht in Deutschland. diesen Scheiß brauchen wir nicht! @aktuelleStunde #WDR
-@RakuBLN Erkläre mal einer Frau von deutscher häuslicher Gewalt, dass die ihr entgegenbrachte Gewalt weniger gewalttätig ist, weil es sich ja um einen Ur-Deutschen (was auch immer das sein mag) Prachtarier handelte, der sie verdroschen hat. /TN
-@AfDDuesseldorf @AfD Aber Presse hetzt nur noch gegen AfD!!!😠
-Wissenschaft ist schon faszinierend: Alles Leben besteht aus Sternenstaub und Dinosaurier leben noch. |LBR| Was ist Religion dagegen?
-Leider haben die Araber immer noch nicht begriffen, das sie wie ein Mann aufstehen und kämpfen müssen.
-@MyChiffre @Chrisl137 @HugoMuellerVogg 53,9 % der Flüchtlinge haben B1 geschafft. |LBR| Die 4/5 beziehen sich auf Analphabeten.
-@ericcartmensmum Wenn ich mir die Argumente der Gegner der Koedukation ansehe, scheinen sie zu befürchten, dass aus Jungs Schwuchteln werden, wenn gemixt.
-@the_frisian @c_lindner du bist wohl ein links-rot-grün Verblendeter.
-@powerphil @IkswokrubRetnug |LBR| Alles für den Asylwahnsinn aber schäbig zum eigen Volk. Geht's noch?
-@KonseqLiberal Deshalb frag ich ja 😈
-Fast amüsant zu beobachten, wie bestimmte #Tweets #Entfolgungs-Wellen in verschiedenen Gesinnungslagern nach sich ziehen. Die Sucht nach ideologischer #Selbstbestätigung ist der nach Alkohol oder Nikotin vergleichbar. #KognitiveDissonanz-Vermeidung polarisiert und verblödet aber.
-@Joemino Wundert mich gar nicht. Die will gezielte Umvolkung wie Rot Grün im Auftrage der Krummnasen"".USrael."	0.05545304399712303	0.944546956002877
+"""#Ökumene herzlicher Wertschätzung“ - #EKD-Spitze um @landesbischof Bedford-Strohm trifft @Pontifex_de im Februar in Rom."	0.9357281475470836	0.0642718524529164
+@4Sonicc @DrKissler Übrigens braucht man zum Account lesen ja nicht mal jmd. zu folgen normalerweise.	0.9949356421184475	0.0050643578815525
+Jetzt frisst der Genderismus auch den Feminismus, so @bettinaroehl	0.8177748390400317	0.18222516095996827
+@Bartzissey Ist das nicht dieses Buch aus dem Adolf Hitler Verlag?	0.03046889601648195	0.969531103983518
+Frau Merkel und ihre Lemminge! |LBR| Wer gibt ihnen die Befehle?	0.1951477901196117	0.8048522098803883
+@Achim7871 Reichsbürger Sind keine Gefahr, Aber Asylschmarotzer und Illegale.	0.8883384538128157	0.11166154618718424
+Wollte auf dem Weg zur Arbeit mein Paket abholen. |LBR| Aber, ach ja, es ist ja Feiertag. Ich werd irre!	0.7167326504452258	0.2832673495547741
+@DeutschPI2 Diese Ärzte sollte man ausweisen!	0.33624968745583983	0.6637503125441602
+„Für mich ist die Reformation ein geistlicher Aufbruch, in dem etwas von dem neuen Herz &amp; dem neuen Geist historisch wirksam geworden ist.“	0.49753659613932333	0.5024634038606767
+@doppel500 @christa_scheuer @anna_IIna Denen wünsch ich mehr als nur Krankheiten👽☠	0.6408117338925621	0.3591882661074379
+Merkel und ihrer Ostküstensatrapen sei Dank! Deutschland verkommt!	0.4097985427270754	0.5902014572729246
+@ericcartmensmum @HelgeThiessen @MiataMuc Immer mehr Männer erkennen halt, dass Heterosexualität nicht das Gelbe vom Ei ist.	0.9529408957348547	0.04705910426514525
+Lt. @TH24DeineNews wurde in #Arnstadt #Thüringen im Zeitraum 1. September bis 8. November eine eine zweiteilige Tafel, die an die Opfer der Schoa erinnert, beschädigt. #9Nov #Gedenken #Antisemitismus	0.32557758146409355	0.6744224185359065
+@SteinbachErika Schon mal eine Verbesserung. Davor haben sich die Grünen für jeden Scheinasylanten, jeden ausländischen Gewalttäter und jeden Islamisten eingesetzt.	0.006666895226124403	0.9933331047738756
+@MiataMuc @KonseqLiberal Yep. Welche andere Lösung sollte es geben? Der Anteil der Muslime in Europa steigt und damit das antisemitische Potential. Gleichzeitig sorgt das für intrakulturelle Verwerfungen und neuen Nationalismus/Rechtsextremismus.	0.9906179950966021	0.009382004903397885
+@mountainman1977 @ThiloAdamitz @MiataMuc Ich stehe eher auf Eicheln.	0.9368318249022007	0.06316817509779922
+@BWSpricht Abschieben. |LBR| ,Abschieben,Abschieben! Alle Parasiten aus Afrika.	0.020501390234461958	0.979498609765538
+Der Sturm des Aussatzes auf Europa ist eröffnet!	0.9787238522323575	0.021276147767642566
+@Piratenfrank @Hevellia64 @JanFurchtenicht 👎Laß A. H. in Ruhe!	0.9388114573232953	0.06118854267670469
+@allesevolution @SteffenKrach Na toll. Jetzt bekomme ich ne Anzeige wegen Sexismus und seelischer Grausamkeit...	0.9849840080197626	0.015015991980237401
+ich will diese scheiß Migranten nicht	0.007377965129984676	0.9926220348700153
+@dennis_wieland @HeikoMaas Von mir aus kann der an seinem Geburtstag auch qualvoll verrecken.	0.48219577168232586	0.5178042283176741
+Kinder sollen ihren Islamunterricht bekommen aber im #Islam und nicht in Deutschland. diesen Scheiß brauchen wir nicht! @aktuelleStunde #WDR	0.006113049374085966	0.993886950625914
+@RakuBLN Erkläre mal einer Frau von deutscher häuslicher Gewalt, dass die ihr entgegenbrachte Gewalt weniger gewalttätig ist, weil es sich ja um einen Ur-Deutschen (was auch immer das sein mag) Prachtarier handelte, der sie verdroschen hat. /TN	0.6367958959010895	0.3632041040989105
+@AfDDuesseldorf @AfD Aber Presse hetzt nur noch gegen AfD!!!😠	0.9131788873235295	0.0868211126764705
+Wissenschaft ist schon faszinierend: Alles Leben besteht aus Sternenstaub und Dinosaurier leben noch. |LBR| Was ist Religion dagegen?	0.863817603769521	0.13618239623047898
+Leider haben die Araber immer noch nicht begriffen, das sie wie ein Mann aufstehen und kämpfen müssen.	0.7597211837960124	0.2402788162039876
+@MyChiffre @Chrisl137 @HugoMuellerVogg 53,9 % der Flüchtlinge haben B1 geschafft. |LBR| Die 4/5 beziehen sich auf Analphabeten.	0.03573373563206306	0.9642662643679369
+@ericcartmensmum Wenn ich mir die Argumente der Gegner der Koedukation ansehe, scheinen sie zu befürchten, dass aus Jungs Schwuchteln werden, wenn gemixt.	0.9468912944277869	0.05310870557221319
+@the_frisian @c_lindner du bist wohl ein links-rot-grün Verblendeter.	0.6654538240434276	0.3345461759565725
+@powerphil @IkswokrubRetnug |LBR| Alles für den Asylwahnsinn aber schäbig zum eigen Volk. Geht's noch?	0.6202797247253837	0.3797202752746162
+@KonseqLiberal Deshalb frag ich ja 😈	0.9927585904441688	0.007241409555831226
+Fast amüsant zu beobachten, wie bestimmte #Tweets #Entfolgungs-Wellen in verschiedenen Gesinnungslagern nach sich ziehen. Die Sucht nach ideologischer #Selbstbestätigung ist der nach Alkohol oder Nikotin vergleichbar. #KognitiveDissonanz-Vermeidung polarisiert und verblödet aber.	0.9434537721232342	0.05654622787676582
+"@Joemino Wundert mich gar nicht. Die will gezielte Umvolkung wie Rot Grün im Auftrage der ""Krummnasen"".USrael."	0.7752868932515664	0.22471310674843364
 @rspctfl @Achtpanther @Kischeph @Volker_Beck Ich bin als Schwuler an der Seite liberaler Demokratien, nicht an der Seite religiöser, autoritärer Regime.	0.934103390102401	0.065896609897599
 @CayVL @Namiimon @mountainman1977 @zeitonline Vor allem, da Geschlechtsbestimmung keine Frage der Meinung ist.	0.9951778283099918	0.004822171690008248
 @deinTherapeut Geschlecht hat nichts mit Gefühlen zu tun.	0.6118698016744974	0.38813019832550255
@@ -2194,7 +2194,7 @@ Mit herzlichem Dank an 100 Follower von @ebhhFluechtHilf!	0.9653501485690552	0.0
 @Heinrich_Krug Die #Transfernomaden scharren jetzt schon mit ihren Hufen⁉😵	0.16398030616348114	0.8360196938365189
 @diebspiel @DB_Bahn Prioritätensetzung 📶 Jährlicher Finanzbedarf Estnische Bahn ca 30 Mio, bewilligt 9 Mio. @DB_Bahn hat mindestens 4 Milliarden/Jahr vom Bund.	0.9617734448184166	0.038226555181583355
 @Seiten99ueber China hatte es demonstriert. Nur 1 oder 2 Kinder erlaubt dann Kastration.	0.7336855764160388	0.26631442358396124
-Wie Sie merken, fahren wir tatsächlich weiter. Fahren als Ausnahmezustand im @Bahn Land Deutschland.	0.7655109135813465	0.23448908641865351
+"""Wie Sie merken, fahren wir tatsächlich weiter"". Fahren als Ausnahmezustand im @Bahn Land Deutschland."	0.7655109135813465	0.23448908641865351
 @vonneudeck Aus den Menschenrechten ergibt sich, dass man Frauen nicht sexy finden und darüber reden darf? |LBR| Crazy 😂😂😂	0.46745154772560504	0.532548452274395
 Sag mal, kennen wir uns nicht flüchtig vom Sehen (Hafen Haifa, Stichwort Marine)? 😃 @shalom_sven	0.9002982799885834	0.09970172001141665
 Das deutsche Volk,ganz Europa,wird sich erheben! |LBR| GLAUBT AN DIE FREIHEIT!	0.8357024324307409	0.16429756756925906
@@ -2299,7 +2299,7 @@ ich denke Dieter #Nuhr hat auch sehr viele Probleme mit psychischen Störungen	0
 @ChSascha @hannes_elefant Du bist aber nicht die Polizei.	0.9916585813580838	0.008341418641916225
 @MiriamOzen @FranzChristia15 Richtig Bürgerwehr in jeder Stadt.	0.8812219709969759	0.11877802900302416
 Den Kirchen sämtliche Gelder streichen,nur noch Vereinsstatus,mehr nicht!	0.37282263968401297	0.627177360315987
-#Integration kann nur gelingen, wenn für alle (...) angemessener Wohnraum zur Verfügung steht und Ghettobildung verhindert wird.	0.9746909828396076	0.025309017160392352
+"""#Integration kann nur gelingen, wenn für alle (...) angemessener Wohnraum zur Verfügung steht und Ghettobildung verhindert wird."""	0.9746909828396076	0.025309017160392352
 Oder habt ihr Angst vor den Muslimen ,Islamisten salafisten????	0.13062573178570613	0.8693742682142939
 @Kinchkun „Problematisch“ wäre gar kein Ausdruck.	0.9643935702146276	0.03560642978537247
 Irakische Familien flüchten aus der umkämpften Stadt #Mossul.	0.9318229903347829	0.06817700966521707
@@ -2309,7 +2309,7 @@ Irakische Familien flüchten aus der umkämpften Stadt #Mossul.	0.93182299033478
 @derheribert das ist mir bekannt du Schlaumeier ich habe es aber rein diktiert und nicht noch einmal nachgelesen	0.9706402193475934	0.029359780652406596
 @rspctfl @ThomasMichael71 @Innenwelttramp @ergroovt @houelle_beck @ksemann2 @DrKassandraPari Ja, dann lies Dein Märchenbuch mal ein bisschen genauer. Tötet die Ungläubigen usw. Juden als Nachfahren von Affen und Schweinen usw.	0.7295888851544978	0.2704111148455022
 @Kittypunk7 @katrinhilger Bei welcher Liebe?? Zu wem oder was LIEBE? ISLAM??	0.9547316317343301	0.04526836826566992
-Zu Weihnachten🎄 will ich mit Smartphonegrüßen die Feiertage euch versüßen.🍰 |LBR| Ich wünsche euch und euren Familien besinnliche Feiertage.😊	0.7905825981058	0.20941740189420002
+"""Zu Weihnachten🎄 will ich mit Smartphonegrüßen die Feiertage euch versüßen.""🍰 |LBR| Ich wünsche euch und euren Familien besinnliche Feiertage.😊"	0.7905825981058	0.20941740189420002
 "@1994_meier Ja. Man nennt sie ""Pussies""."	0.8350406596511424	0.16495934034885756
 @DrOetkerDE Ich. Das ist doch das Beste.	0.9486353379111234	0.05136466208887663
 @Namiimon @CayVL @mountainman1977 @zeitonline Wieso? Nur weil Du bei dem Thema Gonosom nicht aufgepasst hast?	0.9321224374727695	0.06787756252723055
@@ -2413,11 +2413,11 @@ Merkel und ihre Vasallen müssen weg!	0.0023924805568196206	0.9976075194431804
 @ericcartmensmum @HelgeThiessen @MiataMuc Rein rational betrachtet ist es ja auch Unsinn, sich mit dem Geschlecht einzulassen, mit dem man so wenig gemeinsam hat.	0.9025718141728201	0.09742818582717995
 @aberth66 @MatthiasMeisner 3. Antisemitismus unter Muslime ist ein großes Problem, was nicht ignoriert werden darf. Dieser Antisemitismus ist aber auch tief verwurzelt in der ganzen Nazibrut. Kommentare wie von Ihnen bestätigen mich in der Einschätzung, dass hier versucht wird, ein tiefes deutsches Problem	0.9681909075086936	0.03180909249130633
 Das hat Pachelbel nicht verdient #Tatort	0.665691763389574	0.334308236610426
-Der Islam gehört zur Wirklichkeit in Deutschland dazu. Flucht und Asyl gehören zur Wirklichkeit in Deutschland dazu. Punkt. Von dieser Realität aus haben wir die Gesellschaft zu gestalten. - Wolfgang Schäuble #StaatspreisNRW	0.9400404896083757	0.0599595103916243
+"""Der Islam gehört zur Wirklichkeit in Deutschland dazu. Flucht und Asyl gehören zur Wirklichkeit in Deutschland dazu. Punkt. Von dieser Realität aus haben wir die Gesellschaft zu gestalten."" - Wolfgang Schäuble #StaatspreisNRW"	0.9400404896083757	0.0599595103916243
 Aber handelt klug,besonnen.Wir müssen die Feinde benennen,offenlegen,sie überall lächerlich machen.	0.9465191461283873	0.05348085387161269
 @clydevpg @LarsWinter_ Nur nicht gegen 10 Neger gegen eine Frau z.b. Wie es wohl war.	0.20865993062939603	0.791340069370604
 @npdde |LBR| wenn ihr euch doch nur behaupten könntet. Ausländerrückführung und Asylantenstop sind schon lange mehr als fällig!	0.07305442480327018	0.9269455751967298
-Politisch zu denken heißt, die Welt in all ihrer Ambivalenz und Widersprüchlichkeit verstehen zu wollen - Navid Kermani #StaatspreisNRW	0.9484520337366904	0.05154796626330957
+"""Politisch zu denken heißt, die Welt in all ihrer Ambivalenz und Widersprüchlichkeit verstehen zu wollen"" - Navid Kermani #StaatspreisNRW"	0.9484520337366904	0.05154796626330957
 @MiataMuc Ich verstehe die Aufregung nicht. |LBR| Das einzig Dumme an dem Statement ist die politische Note. |LBR| Aber es kommt halt vonnem Kirchenfutzi. Was erwartet man da?	0.320915297059142	0.679084702940858
 @EliasLeikeb @Apoll0x @Die_Gruenen Ich bin kein Christ. Ich bin Deutscher und mein Staat sollte fern von jeder Religion sein.	0.948471605815284	0.05152839418471596
 "@Simulacron2 ""Geschminkt wie ein Clown und über und über mit Lametta behangen"" 😁"	0.9148270285760995	0.08517297142390044
@@ -2538,7 +2538,7 @@ Fakt: Es sterben jedes Jahr mehr Menschen an H2O, als an #Glyphosat. |LBR| (Bitt
 @vadderland @nopgy8i7 Die Schlacht vor Wien wurde jetzt nachträglich verloren, dank Merkel u. ihre Anhänger.	0.7885359103666104	0.2114640896333896
 Hat der Pfaffe Gauck nicht mal wieder ein KZ gefunden,das er besuchen kann?	0.6022519578323333	0.3977480421676666
 Ich sage nochmal DANKE SCHWEIZ! Ihr seid die Freiheitskämpfer Europas!	0.9905862786636093	0.00941372133639079
-@Reiterfee: @WHetzler @hapatamast Deshalb ist auch alles Lügenpresse und Manipulation, auch von den TV-Sendern |LBR| SO IST ES!	0.38274243725447965	0.6172575627455203
+"""@Reiterfee: @WHetzler @hapatamast Deshalb ist auch alles Lügenpresse und Manipulation, auch von den TV-Sendern"" |LBR| SO IST ES!"	0.38274243725447965	0.6172575627455203
 Und die Amis haben recht!Sie Uberwachen ihre Sklaven!	0.5729029697619576	0.4270970302380423
 Wahrheit über diese Welt - die ihr nicht verstehen werdet - YouTube	0.9929247973015497	0.007075202698450311
 @ProfSalzborn Es sind in der Regel Studierende, die Kritik an Antisemitismus in die Öffentlichkeit tragen und tragen können. #NEBA17	0.8618380501122509	0.13816194988774916
@@ -2550,7 +2550,7 @@ Dezember geht mir auf den Keks. Bin froh, wenn der ganze Weihnachts-Quatsch vor�
 @leon_dnebach @Heinrich_Krug USA Waffen selbstversändlich. Hilft zuminest dem Bürger vor Machtlosigkeit gegen kriminelles Asylantenpack.	0.7070089721112687	0.2929910278887313
 @DamasiusPugnax Ja. (Nach 3 Sätzen wegen unerträglich billiger Polemik aufgehört zu lesen.)	0.9724909148802867	0.027509085119713273
 @marthori Danke für den Hinweis! Das PDF ist jetzt wieder erreichbar.	0.988264164571079	0.011735835428920972
-Und plötzlich weißt du: Es ist Zeit, etwas Neues zu beginnen und dem Zauber des Anfangs zu vertrauen. Meister Eckhart	0.9624972356607924	0.037502764339207594
+"""Und plötzlich weißt du: Es ist Zeit, etwas Neues zu beginnen und dem Zauber des Anfangs zu vertrauen."" Meister Eckhart"	0.9624972356607924	0.037502764339207594
 @mountainman1977 @MiataMuc Ich frage mich bloß, ob die Aufregung so groß wäre, wenn ein Priester dafür betet, dass er dereinst eine liebevolle Frau findet.	0.850691614347588	0.14930838565241197
 Die @AfD_Bayern und @AfD_Hamburg Posten wieder widerlichen Hass, allerdings werde ich direkt auf sowas nicht antworten, sondern einen neuen Tweet öffnen. Sollten wir ALLE tun, so msn als Vorschlag! |LBR| #afdWuergt #noafd	0.8415033518951499	0.15849664810485006
 "@ThomasMichael71 @Tschonka @PBahners ""Würde"" ist hervorragend dafür geeignet, Freiheiten einzuschränken, um andere Menschen zu ""schützen""/zu bevormunden."	0.9150328803926929	0.0849671196073071
@@ -2578,7 +2578,7 @@ Männer: Wie hat Feminismus Euer Bild von Frauen beeinflusst?	0.7750715127565371
 @ThomasMichael71 @houelle_beck Mit dieser soll die Staatlichkeit Palästinas unmöglich gemacht werden. Was ich mittlerweile sehr begrüße.	0.8866975754113037	0.11330242458869628
 In Zeiten des Feminismus beginnen Hetero-Männer zu verstehen, da nun ihre |LBR| Sexualität unter Beschuss steht.	0.9988788098194192	0.001121190180580717
 Schweizer Zeitungen sind für Bundesbürger mittlerweile das, was das Westfernsehen für DDR-Bürger war.	0.8030594009170324	0.19694059908296752
-Auch unter den Muslimen und Juden unseres Landes wecken d. aktuellen Fluchtbewegungen ein großes Maß an Solidarität und Hilfsbereitschaft.	0.4618092316940404	0.5381907683059596
+"""Auch unter den Muslimen und Juden unseres Landes wecken d. aktuellen Fluchtbewegungen ein großes Maß an Solidarität und Hilfsbereitschaft."""	0.4618092316940404	0.5381907683059596
 Sie liebten einst ihr Vaterland, die Liebe war sein Untergang. #NoAfD #AfD	0.9069595199460756	0.09304048005392435
 @yxyzyxy Ich kaufe nichts beim Asiaten oder Türken.	0.04655310865678974	0.9534468913432103
 @petpanther0 Nehmen wir uns doch ein beispiel an Österreich. Nur 3 Parlamentspräsidenten.	0.854946101820343	0.14505389817965694
@@ -2649,7 +2649,7 @@ WANN ENDLICH STEHT DIESES DEUTSCHE VOLK AUF GEGEN DIE VOLKSVERRÄTER?	0.23259958
 @kjempeslu @connor_larkin Es gibt aber keine Opposition ohne Regierung.	0.9416025608502019	0.058397439149798065
 @JoeHellBack @ThomasMichael71 @alexa_jung60 @Tschonka @Gwen_Ny_ @dasstimmvieh @Mohrenpost Noch einmal: Ich bin Atheist. Ich bin liberal. Ich lehne den Islam ab. Ich habe ethische und wissenschaftliche Gründe dafür.	0.9398503852862339	0.06014961471376608
 @TiloJung Damit Du nicht traurig bist: Deine und meine sind die besten Omis der Welt. Ok?	0.9456446479969929	0.054355352003007174
-Er weckt mich alle Morgen... die #ekdsynode beginnt ihren letzten Sitzungstag in Magdeburg. Die Synodale Filitz hält die Andacht zum 9.11.	0.898686446182388	0.10131355381761203
+"""Er weckt mich alle Morgen..."" die #ekdsynode beginnt ihren letzten Sitzungstag in Magdeburg. Die Synodale Filitz hält die Andacht zum 9.11."	0.898686446182388	0.10131355381761203
 Faustregel: Alles, was die muslimische Welt aufregt, ist zu begrüßen.	0.8499681933343053	0.15003180666569474
 @Hruotland2017 @Matthias_Kamann Korrekt ist, dass das Evangelium von der Flucht berichtet mit einer bestimmten Aussageabsicht. Die katholische Kirche vertritt keine fundamentalistische Bibelauslegung, die die Heilsgeschichte mit historischen Berichten verwechselt. Insofern ist schon die Frage falsch gestellt.	0.7734415546212612	0.22655844537873876
 @MiataMuc Quatsch. Wir müssen einfach einen Termin legen und planen. Eher langfristig.	0.9033298023414045	0.09667019765859547
@@ -2694,31 +2694,31 @@ Haben sich @Die_Gruenen schon zu den antisemitischen Demonstrationen ihrer Liebl
 @Frau_Nordbirke @allesevolution Weißt Du, was das Wunderbare an Birken ist? Sie schweigen.	0.9854561476391939	0.014543852360806101
 Ihr müsst sie nur auslachen,mehr nicht.	0.5760949001980973	0.4239050998019028
 In seinem Bemühen, die AfD rechts zu überholen, scheint Bundesinnenminister de Maizière jedes Maß verloren zu haben“, so der #TBB	0.9591500278981483	0.04084997210185171
-"@781Johnny: Top-Schmarotzer Volker #Beck 4 Wochen krank geschrieben. Jedem Arbeitnehmer würde man fristlos kündigen. |LBR| WAS WILL DIE SAU?
-@lto_de Mich würde interessieren, ob er das auch für einen Atheisten gemacht hätte. Oder welche Auswirkung es auf die Entscheidung des Richters hätte, wenn man beim Beginn der Verhandlung die Abnahme des Kreuzes verlangt.
-Heiliger Geist, gib, dass wir Frieden stiften, wo Gegensätze aufeinanderprallen, und durch unser Leben einen Widerschein des Erbarmens Gottes erkennen lassen. Ja, lass uns lieben und es mit unserem Leben sagen. Frere Roger
-@StapelChipsYT @Helheimer Kann die was? |LBR| 1. Sie ist in der SPD. |LBR| 2. Sie ist in der SPD im Land Berlin. |LBR| 3. Schau Dir an, was sie für skandalös hält.
-@Tho_Rie @anna_IIna Aber mit ALLEN Konsequenten. Incl. Knast bei Straffälligkeiten seitens der Abzuschiebenden. Hirnlose Lirogrün versiffte Brut
-Meine Prognose ist: |LBR| Die @spdde @jusos wird in Koalitionsgesprächen gehen, weil Schulz die Hose voll hat! |LBR| Merkel von der @cducsubt hat wohl wieder die Hosen zurück! Dann sag ich mal Goodbye SPD
-@shortymatic Ein Orschloch bist du mehr nicht !!!!! du gehörst in Schweineblut gebadet und von Hyänen gefressen !!!!
-Und ohne Kraft zur Gegenwehr taumelt der Westen, malträtiert von Islam und Postmodernismus, seinem Untergang entgegen.
-@buerger18 Sie suggerieren, dass der Geheimdienst dahinter steckte, dass Richard Gutjahr zufällig in der Nähe war, als 2 sehr unterschiedliche Anschläge passierten, und warnen *mich* vor voreiligen Schlussfolgerungen.
-Antisemitismus nicht nur im Bundestag Thema. Anhörung dazu gerade im Ausschuss im #AH. Kampf gg Antisemitismus geht uns alle an.
-Bei von Storch hätte man gern gewusst, wie Schächtverbot und Hetze gegen Beschneidung mit Bekenntnis zum jüdischen Leben in Deutschland zusammengehen soll.
-@ZeichenTaten @Tschonka @ThomasMichael71 @schneeridara @mountainman1977 Die Praxis des Islam, Ehebruch oder Apostasie zu bestrafen ist konform mit den Menschenrechten?
-@jane71z Nein, Migration kann vorteilhaft sein, wenn man sie ökonomisch selektiv steuert, wenn man die Besten reinlässt.
-Flüchtlinge, Islam und Feminismus. Andere Themen gibt es in Deutschland nicht mehr. Es nervt.
-@DER_PR0FESSOR @heutejournal @ClausKleber @ZDF @TiloJung Es ist wichtig, Probleme anzusprechen. Dürfen aber keine Gruppe, Muslim oder Flüchtling, kriminalisieren o. stigmatisieren.
-@rspctfl @freeWorld2 @NoBurkaverbot @m8Flo @ThomasMichael71 @Berlincopa @amazikat @BolzAndrea @LGnimag @dasstimmvieh @NordicSkulled @Suzimiya @Innenwelttramp @waldenmonk @Coffee__Grind @houelle_beck @THesmert @Chinasky64a @MartinDomig Warum darf dein Mann mehrere Frauen haben nach islamischen Recht? |LBR| Warum darf er entscheiden, ob du dich scheiden lassen kannst oder nicht? |LBR| Wer solche Werte lebt, ist nicht emanzipiert, sondern Sklavin einer mittelalterlichen Weltanschauung.
-Wenn die Bundestagswahl irgend etwas gezeigt hat, dann den überragenden Wunsch der Bürger, weiter von denen regiert zu werden, die dies in den vergangenen Jahren mit so großem Erfolg getan haben.
-Und die Grünen und ihre Sozis wie immer die größten Verbrecher am deutschen Volk.
-Es gibt drei Hauptgründe für den gegenwärtigen Feminismus: |LBR| 1. Heterosexualität |LBR| 2. Weiblicher Narzissmus |LBR| 3. Funktionierende Verhütungsmittel
-Wieso wird eigentlich immer @SWagenknecht von der Moderation abgewürgt? #Schlussrunde
-.@LPDWien |LBR| Da kann ich ja jetzt Österreich auch von der Reiseliste streichen. Bleiben bald nicht mehr viele Reiseziele in Europa übrig.
-@hanvoi @ulfposh @LauHofmann Wieviel mehr Frauen bekommt man eigentlich ins Bett, wenn man sich feministisch anbiedert?
-Er: Ich steh gerad auf dem Schlauch. |LBR| Ich: Lüg nicht. Ich weiß wie lang Deiner ist.
-#Merkel du brauchst uns nicht ernstnehmen verschleudere ruhig weiter unser angeblich nicht vorhandenes #Steuergeld an #Flüchtlinge #CDU
-Die Lösung des Problems besteht jedenfalls sicher nicht darin, Menschen, die sich illegal in der EU aufhalten, auf dem ganzen Gebiet der EU zu verteilen."" Viktor Orbán im Interview mit ""Bild""."	0.7105755023244664	0.28942449767553363
+"""@781Johnny: Top-Schmarotzer Volker #Beck 4 Wochen krank geschrieben. Jedem Arbeitnehmer würde man fristlos kündigen. |LBR| WAS WILL DIE SAU?"	0.047446906896496555	0.9525530931035034
+@lto_de Mich würde interessieren, ob er das auch für einen Atheisten gemacht hätte. Oder welche Auswirkung es auf die Entscheidung des Richters hätte, wenn man beim Beginn der Verhandlung die Abnahme des Kreuzes verlangt.	0.9720296300084209	0.02797036999157914
+Heiliger Geist, gib, dass wir Frieden stiften, wo Gegensätze aufeinanderprallen, und durch unser Leben einen Widerschein des Erbarmens Gottes erkennen lassen. Ja, lass uns lieben und es mit unserem Leben sagen. Frere Roger	0.8618812100893147	0.1381187899106852
+@StapelChipsYT @Helheimer Kann die was? |LBR| 1. Sie ist in der SPD. |LBR| 2. Sie ist in der SPD im Land Berlin. |LBR| 3. Schau Dir an, was sie für skandalös hält.	0.9953431785619635	0.004656821438036529
+@Tho_Rie @anna_IIna Aber mit ALLEN Konsequenten. Incl. Knast bei Straffälligkeiten seitens der Abzuschiebenden. Hirnlose Lirogrün versiffte Brut	0.2269055419271614	0.7730944580728386
+Meine Prognose ist: |LBR| Die @spdde @jusos wird in Koalitionsgesprächen gehen, weil Schulz die Hose voll hat! |LBR| Merkel von der @cducsubt hat wohl wieder die Hosen zurück! Dann sag ich mal Goodbye SPD	0.11234174843129685	0.8876582515687031
+@shortymatic Ein Orschloch bist du mehr nicht !!!!! du gehörst in Schweineblut gebadet und von Hyänen gefressen !!!!	0.6898310049400833	0.31016899505991663
+Und ohne Kraft zur Gegenwehr taumelt der Westen, malträtiert von Islam und Postmodernismus, seinem Untergang entgegen.	0.45552140677059283	0.5444785932294072
+@buerger18 Sie suggerieren, dass der Geheimdienst dahinter steckte, dass Richard Gutjahr zufällig in der Nähe war, als 2 sehr unterschiedliche Anschläge passierten, und warnen *mich* vor voreiligen Schlussfolgerungen.	0.9618036876044158	0.03819631239558415
+Antisemitismus nicht nur im Bundestag Thema. Anhörung dazu gerade im Ausschuss im #AH. Kampf gg Antisemitismus geht uns alle an.	0.9966419336353772	0.003358066364622793
+Bei von Storch hätte man gern gewusst, wie Schächtverbot und Hetze gegen Beschneidung mit Bekenntnis zum jüdischen Leben in Deutschland zusammengehen soll.	0.77499934571546	0.22500065428453997
+@ZeichenTaten @Tschonka @ThomasMichael71 @schneeridara @mountainman1977 Die Praxis des Islam, Ehebruch oder Apostasie zu bestrafen ist konform mit den Menschenrechten?	0.9239133766411762	0.07608662335882381
+@jane71z Nein, Migration kann vorteilhaft sein, wenn man sie ökonomisch selektiv steuert, wenn man die Besten reinlässt.	0.8547115676202259	0.14528843237977404
+Flüchtlinge, Islam und Feminismus. Andere Themen gibt es in Deutschland nicht mehr. Es nervt.	0.8173708639756232	0.1826291360243768
+@DER_PR0FESSOR @heutejournal @ClausKleber @ZDF @TiloJung Es ist wichtig, Probleme anzusprechen. Dürfen aber keine Gruppe, Muslim oder Flüchtling, kriminalisieren o. stigmatisieren.	0.6528688848133068	0.3471311151866932
+@rspctfl @freeWorld2 @NoBurkaverbot @m8Flo @ThomasMichael71 @Berlincopa @amazikat @BolzAndrea @LGnimag @dasstimmvieh @NordicSkulled @Suzimiya @Innenwelttramp @waldenmonk @Coffee__Grind @houelle_beck @THesmert @Chinasky64a @MartinDomig Warum darf dein Mann mehrere Frauen haben nach islamischen Recht? |LBR| Warum darf er entscheiden, ob du dich scheiden lassen kannst oder nicht? |LBR| Wer solche Werte lebt, ist nicht emanzipiert, sondern Sklavin einer mittelalterlichen Weltanschauung.	0.6787065113179518	0.32129348868204827
+Wenn die Bundestagswahl irgend etwas gezeigt hat, dann den überragenden Wunsch der Bürger, weiter von denen regiert zu werden, die dies in den vergangenen Jahren mit so großem Erfolg getan haben.	0.3227653281794509	0.6772346718205491
+Und die Grünen und ihre Sozis wie immer die größten Verbrecher am deutschen Volk.	0.04987399301156137	0.9501260069884386
+Es gibt drei Hauptgründe für den gegenwärtigen Feminismus: |LBR| 1. Heterosexualität |LBR| 2. Weiblicher Narzissmus |LBR| 3. Funktionierende Verhütungsmittel	0.6526718415480455	0.3473281584519545
+Wieso wird eigentlich immer @SWagenknecht von der Moderation abgewürgt? #Schlussrunde	0.8860405264773902	0.1139594735226098
+.@LPDWien |LBR| Da kann ich ja jetzt Österreich auch von der Reiseliste streichen. Bleiben bald nicht mehr viele Reiseziele in Europa übrig.	0.9845955583452849	0.015404441654715058
+@hanvoi @ulfposh @LauHofmann Wieviel mehr Frauen bekommt man eigentlich ins Bett, wenn man sich feministisch anbiedert?	0.882389142109548	0.11761085789045199
+Er: Ich steh gerad auf dem Schlauch. |LBR| Ich: Lüg nicht. Ich weiß wie lang Deiner ist.	0.8412243609504818	0.15877563904951822
+#Merkel du brauchst uns nicht ernstnehmen verschleudere ruhig weiter unser angeblich nicht vorhandenes #Steuergeld an #Flüchtlinge #CDU	0.8941288014098725	0.10587119859012747
+"""Die Lösung des Problems besteht jedenfalls sicher nicht darin, Menschen, die sich illegal in der EU aufhalten, auf dem ganzen Gebiet der EU zu verteilen."" Viktor Orbán im Interview mit ""Bild""."	0.9964650524292648	0.0035349475707352257
 Schönen Sonntag allerseits. Ich schreibe jetzt einen Antrag auf Erlaß einer einstweilige Verfügung gegen Facebook. Und wenn ich den fertig habe, schreibe ich gleich den nächsten. Und mein Gefühl sagt mir, dass das erst der Anfang ist. Die Spiele beginnen.	0.9652029895371825	0.03479701046281748
 @cyberdoc60 @SteinbachErika Deshalb wähle ich auch die AFD und nicht rechtsextrem.	0.9770607303152655	0.02293926968473446
 @JoeHellBack @ThomasMichael71 @alexa_jung60 @Tschonka @dasstimmvieh @Mohrenpost Du strukturierst Dein gesamtes Weltbild auch nur danach, was Rechte tun, oder?	0.8557655412275273	0.14423445877247262
@@ -2792,7 +2792,7 @@ Um ca. 20:00 Uhr äußert sich EKD-RV @landesbischof Bedford-Strohm im @ZDF Spez
 #TagDerMenschenrechte |LBR| Die Bekämpfung der rechtsextremen und rassistischen Ideologien hinter der rassistischen Gewalt ist zwingend notwendig	0.7401708329410344	0.25982916705896564
 @Die_Gruenen @cem_oezdemir #Kinderfickerpartei hat im Bundestag nichts verloren	0.9111831717874865	0.08881682821251347
 @Wahr_Sager |LBR| Wo soll das mit unserer einstigen schönen Heimat noch hinführen? Gut das ich schon so alt bin 66 und keine Kinder und Enkel hab	0.9613792179350604	0.03862078206493954
-Ihre Dummheit macht die Frau göttlich. |LBR| (Esther Vilar)	0.04983759364580642	0.9501624063541936
+"""Ihre Dummheit macht die Frau göttlich."" |LBR| (Esther Vilar)"	0.04983759364580642	0.9501624063541936
 @MiataMuc @Tom174_ Ja, die ausländischen hab ich komischerweise nicht mitgezählt 😁. |LBR| Aber erinnern kann ihn mich an die alle.	0.8295384939294956	0.1704615060705044
 @LivaSommar @tollversterker @MissSchmaguelze @Kaktusimgesicht Geht ja auch schlecht wenn er joggt.	0.9552607603935825	0.044739239606417465
 "Liebe Freunde, Aufbau eines freien Gesprächskreises ""Deutschland"" im Raum Frankfurt/Main. |LBR| Meldet euch bitte!"	0.8591003648245552	0.14089963517544474
@@ -2984,7 +2984,7 @@ Wussten Sie's? Etwa 12% der Babies 🚼, die von Flüchtlingen im Libanon gebore
 @mountainman1977 @allesevolution Ich möchte nur meine zentrale Bedeutung sichergestellt wissen.	0.8799747931023771	0.12002520689762286
 @Claudia_Mertes Von mir als komm darauf zurück. |LBR| Die Antwort kann ich Dir, was mich angeht, aber bereits jetzt geben: |LBR| Ich persönlich habe kein Interesse an einer islamischen Gesellschaft.	0.890502561620091	0.10949743837990902
 du kannst gar nichts @GoeringEckardt ! verblödete Studienabbrecherin. #illner	0.1189231826783218	0.8810768173216782
-Vergesst nicht die Gastfreundschaft, durch sie haben manche Engel beherbergt und wussten es nicht (Hebr 13,2). #Integration	0.7938281244878687	0.20617187551213134
+"""Vergesst nicht die Gastfreundschaft, durch sie haben manche Engel beherbergt und wussten es nicht (Hebr 13,2)."" #Integration"	0.7938281244878687	0.20617187551213134
 @KatjaBZaich Ja ein Apfelzweig geht auch. /jcm	0.9183445054532654	0.08165549454673461
 @Einzelfallinfos @ibikus31 Kastrieren und abschieben die stinkende Ratte	0.20155918467446565	0.7984408153255343
 @Berlincopa @Pontifex_de Aus säkularem Blickwinkel zweifellos. Sub specie aeternitatis brauchen andere den universalen Hirten vielleicht mehr. Und in Zeiten des grassierenden Nationalismus einen Kontrapunkt zu setzen - warum nicht?	0.9758740980704363	0.024125901929563688
@@ -3014,18 +3014,18 @@ Geschlechterrollen aufbrechen? Ja, bitte! Aber doch nicht dann , wenn Frauen dad
 @Bartzissey @MiataMuc Hach, bin Ochs heute wieder garstig 😈	0.8893079043809649	0.1106920956190352
 @karlaschnik @tagesspiegel @la_Biennale Korrekt, Marianne Birthler war von 2000 bis 2011 Bundesbeauftragte fuer die Stasi-Unterlagen (BStU)	0.9091365793444808	0.09086342065551925
 @althusmann was wird nun aus der kostenlosen Kita in der GROKO ?	0.935235703993482	0.06476429600651798
-"Mich freut, dass die Zivilgesellschaft unglaublich mobilisiert worden ist.“ EKD-RV @landesbischof Bedford-Strohm zum #Reformationsjubiläum
-@Beatrix_vStorch Claudia Roth ist eine Schande für Deutschland. Und eine Peinlichkeit für JEDE Partei.
-#Yvonne #Willicks frisst sich durch die Welt sie passt schon nicht mehr auf einen 16 zu 9 Bildschirm #Servicezeit #WDR
-@pmaurus @UrsUrsen Gar nicht erst abschalten! /sth
-@PaulRoegler @Tomahrweiler @conny_asf @tagesspiegel Sieht man ja an Merkel. Die ist immer noch nicht Kanzlerin weil die bösen Männer sie einfach nicht lassen...
-@JoeHellBack @alexa_jung60 @Tschonka @ThomasMichael71 @Gwen_Ny_ @dasstimmvieh @Mohrenpost Ich habe ein Problem mit dem Katholizismus, dem Judentun, der russischen Bevölkerung und mit Neonazis.
-@MeliDeluxe da fällt mir gleich die kippe aus der Fresse ,bei dem Anblick 🙈😂
-TBB erschüttert darüber,dass AfD nicht nur d. Einzug geschafft hat,sondern auch noch so stark im Bundestag vertreten sein wird #BTW17 #noafd
-@_teatimecookie_ Einen Mann dazu zu bringen wäre, wie Euch Frauen dazu zu bringen, nicht mehr in Schaufenstern voller Schuhe zu glotzen.
-Die Frage nach dem Sinn des Lebens wird deshalb immer wieder gestellt, weil den Menschen die offensichtliche Antwort nicht behagt.
-@hubertus_knabe da passt jemand auf :-) Im Frühjahr 2016 ist die Publikation verfügbar, das Manuskript ist so gut wie fertig.
-Bundesinnenminister auf #Kirchentag: Stichtagsregelung für Geflüchtete in Deutschland - das kann man diskutieren."" #dekt17"	0.9355732080559567	0.0644267919440433
+"""Mich freut, dass die Zivilgesellschaft unglaublich mobilisiert worden ist.“ EKD-RV @landesbischof Bedford-Strohm zum #Reformationsjubiläum"	0.8693096823198025	0.1306903176801974
+@Beatrix_vStorch Claudia Roth ist eine Schande für Deutschland. Und eine Peinlichkeit für JEDE Partei.	0.13181875284097944	0.8681812471590206
+#Yvonne #Willicks frisst sich durch die Welt sie passt schon nicht mehr auf einen 16 zu 9 Bildschirm #Servicezeit #WDR	0.7294188934011276	0.2705811065988724
+@pmaurus @UrsUrsen Gar nicht erst abschalten! /sth	0.778046804128848	0.221953195871152
+@PaulRoegler @Tomahrweiler @conny_asf @tagesspiegel Sieht man ja an Merkel. Die ist immer noch nicht Kanzlerin weil die bösen Männer sie einfach nicht lassen...	0.7805091376859442	0.21949086231405582
+@JoeHellBack @alexa_jung60 @Tschonka @ThomasMichael71 @Gwen_Ny_ @dasstimmvieh @Mohrenpost Ich habe ein Problem mit dem Katholizismus, dem Judentun, der russischen Bevölkerung und mit Neonazis.	0.9375697298500508	0.062430270149949174
+@MeliDeluxe da fällt mir gleich die kippe aus der Fresse ,bei dem Anblick 🙈😂	0.9643401907267245	0.03565980927327554
+TBB erschüttert darüber,dass AfD nicht nur d. Einzug geschafft hat,sondern auch noch so stark im Bundestag vertreten sein wird #BTW17 #noafd	0.9836721960209909	0.016327803979009133
+@_teatimecookie_ Einen Mann dazu zu bringen wäre, wie Euch Frauen dazu zu bringen, nicht mehr in Schaufenstern voller Schuhe zu glotzen.	0.9115945163728726	0.08840548362712745
+Die Frage nach dem Sinn des Lebens wird deshalb immer wieder gestellt, weil den Menschen die offensichtliche Antwort nicht behagt.	0.9808193416252498	0.01918065837475029
+@hubertus_knabe da passt jemand auf :-) Im Frühjahr 2016 ist die Publikation verfügbar, das Manuskript ist so gut wie fertig.	0.82985526427318	0.17014473572681993
+"""Bundesinnenminister auf #Kirchentag: Stichtagsregelung für Geflüchtete in Deutschland - das kann man diskutieren."" #dekt17"	0.9291068962126933	0.0708931037873067
 @karlaschnik @OneStepBayond @kubyalcin @kahrs @Karl_Lauterbach @spdde @ThomasOppermann Das darf nicht passieren. Sollte es zu einer erneuten GroKo kommen, dann darf es ein „weiter so“ nicht geben. Die SPD muss auch in einer GroKo keine Angst haben sich mit seinem Koalitionpartner um den richtigen Weg streiten und auch mal hart bleiben wenn es nötig ist.	0.9825520186040535	0.01744798139594655
 Die #USA zeigen mit Trumps #TaxReform, wie rechte Politik geht: Massive Umverteilung von unten nach oben, gigantische Schulden für die kommenden Generationen. |LBR| Deutschland sollte es genau anders herum machen. |LBR| #gerechterwerden	0.5433502383712996	0.4566497616287004
 @hwieduwilt Wir können das Spiel noch ein paar Runden lang spielen (Warum beginnen Sie es mit „Auch so eine Mode“?), aber ich bin dann jetzt raus.	0.9971291810292349	0.002870818970765167
@@ -3034,7 +3034,7 @@ Gerade sagt @c_lindner allen Ernstes beim #3K18, Grüne, Linke + AfD hätten „
 @HeikoMaas DIE ZEIT IST GEKOMMEN FÜR DIE FREIHEIT - SOZIS PASST AUF!	0.5664964703527356	0.43350352964726435
 @CDU @moguai Der Stammwähler ist das größte Arschloch auf Erden !!! Jeder der eine Partei nur wählt, weil er sie immer schon gewählt hat ist ein Dummkopf	0.10524694160015391	0.8947530583998461
 Liebe Freunde,lasst euch nicht hinreißen. Lacht die Sklaven aus.	0.8194389777359813	0.18056102226401868
-Die Botschaft von Weihnachten wird niemand zerstören können #EKD @Landesbischof Bedford-Strohm im #ZDFspezial	0.9436332321413714	0.05636676785862855
+"""Die Botschaft von Weihnachten wird niemand zerstören können"" #EKD @Landesbischof Bedford-Strohm im #ZDFspezial"	0.9436332321413714	0.05636676785862855
 @Hruotland2017 Welche Frage ist nach dem Artikel von @Matthias_Kamann denn noch offen? /fxn	0.9167355562072576	0.08326444379274248
 Meine Fraktion hat Abzug der #Bundeswehr aus #Incirlik im BT |LBR| aufsetzen lassen. Bin gespannt, ob #CDU #CSU &amp; #SPD Sofortabstimmung |LBR| zulassen	0.8923441670926981	0.10765583290730188
 @Alma_Deutsch @MiRo_SPD @robinalexander_ @welt Alles nachzulesen auf facebook unter: Verein gegen die Willkür deutscher Botschaften und des Auswärtigen Amter	0.976252990712031	0.023747009287969054
@@ -3047,7 +3047,7 @@ Laut #UNHCR werden bis Ende des Jahres etwa 360.000 Flüchtlinge durch pakistani
 @ZeichenTaten @ThomasMichael71 @mountainman1977 Im übrigen sind Rohstoffe kein Garant für Wohlstand. Eher im Gegenteil. Der Kongo ist voll mit Diamanten, nützt aber nix, wenn man ne korrupte Regierung hat und die Mehrzahl der Einwohner Analphabeten sind. Das hat mit Kolonialismus und Konzernen nichts zu tun.	0.4603610455840653	0.5396389544159347
 Da fehlt ein Tweet von mir ! Deutsche haben Deutschland wieder aufgebaut ,vor allem Deutsche Frauen !!! KEINE TÜRKEN !!!! ODER sonstige	0.43059008356294803	0.569409916437052
 Zeitgeist und zu wenig Widerstand gegen die Ausschweifende,perverse westl,Geseschaft.	0.701965913322192	0.2980340866778079
-Eine besondere Sensibilität für d. Bedürfnisse geflüchteter Frauen (...) in allen Bereichen des kirchl. Engagements für #Flüchtlinge ... .	0.7928723153436503	0.20712768465634965
+"""Eine besondere Sensibilität für d. Bedürfnisse geflüchteter Frauen (...) in allen Bereichen des kirchl. Engagements für #Flüchtlinge ... ."""	0.7928723153436503	0.20712768465634965
 Aus polit. Gründen werden viele Wahrheiten verschwiegen.	0.6837398614996126	0.31626013850038737
 Offensichtlich will de Maizière nicht zur Kenntnis nehmen,vor welchen Lebensbedingungen die Menschen geflüchtet sind #deMaiziere	0.9883154348774518	0.01168456512254826
 Ich habe mir mal von Mama die Fenster putzen lassen |LBR| #ichwars	0.8554943926051399	0.1445056073948601
@@ -3079,7 +3079,7 @@ schon wieder so ein #Neger #Tatort ohne mich ciao #WDR	0.10310406862998456	0.896
 Das Zentrum der Seele ist Gott. Wenn sie ihn liebt mit allen Fasern ihres Seins, mit der ganzen Kraft ihres Tuns und Wünschens, gelangt sie zu ihrer tiefsten Mitte. Johannes vom Kreuz	0.6593044649989723	0.34069553500102767
 @StapelChipsYT Die Rede ist ein grandioser Beweis dafür, wie privilegiert Frauen und wie naiv Feministen sind.	0.027123570897369387	0.9728764291026306
 Also ich bin echt erstaunt wie weit sich der Vorstand der @spdde mit dem Ergebnis der Sondierungsgespräche aus dem Fenster lehnt! Lustig	0.9038088062538691	0.09619119374613098
-Unabhängig vom jeweiligen Aufenthaltsstatus muss jeder Mensch in unserem Land Zugang zu einer adäquaten Gesundheitsversorgung haben.	0.9771635453240265	0.022836454675973512
+"""Unabhängig vom jeweiligen Aufenthaltsstatus muss jeder Mensch in unserem Land Zugang zu einer adäquaten Gesundheitsversorgung haben."""	0.9771635453240265	0.022836454675973512
 @JoeHellBack @ThomasMichael71 @alexa_jung60 @Tschonka @Gwen_Ny_ @dasstimmvieh @Mohrenpost Und dabei ist es mir völlig egal, ob irgendein Nazi den Islam auch ablehnt.	0.8853327263851687	0.11466727361483134
 @neythomas @tagesspiegel Also weiter in diesem Land, wie gehabt.	0.7484434275050805	0.2515565724949195
 Die Faschisten der SPD,nennt sie endlich so!	0.963260455054194	0.03673954494580597
@@ -3124,9 +3124,9 @@ Es ist traurig dem Verfall des Westens zuzusehen. Noch trauriger ist, daß es f�
 @Neodeutscher @KonseqLiberal Ich weine Deutschistan keine Träne nach	0.8972810291236695	0.10271897087633051
 Schwarzer Tag für #Türkei+Demokratie. Jetzt sofort Konsequenzen: EU-Beitrittsverhandlungen beenden, BuWehr abziehen, Rüstungsexporte stoppen	0.9270834135132779	0.07291658648672203
 "Was sie sagt: ""Ich bin eine Feministin."" |LBR| Was ich höre: ""Ich bin nicht zurechnungsfähig""."	0.971487453904006	0.028512546095993994
-Flüchtlingsschutz und Sicherheit sind sich ergänzende Ziele und sollten gemeinsam verfolgt werden. - @RefugeesChief	0.8383840227343198	0.16161597726568017
+"""Flüchtlingsschutz und Sicherheit sind sich ergänzende Ziele und sollten gemeinsam verfolgt werden."" - @RefugeesChief"	0.8383840227343198	0.16161597726568017
 @Lata_mariusz Wenn Sie eine Linke Politik wollen, mit wem wollen Sie diese Politik denn dann verwirklichen alleine, machen Sie sich nicht lächerlich, stehen Sie wenigstens dazu!	0.9913257903272619	0.008674209672738187
-Wir erfahren uns als die, die den ungeheuerlichen Mut haben können und haben sollen, hoffend, liebend, betend der Unbegreiflichkeit Gottes als dem bergenden Geheimnis entgegenzugehen. K. Rahner	0.7054636905532793	0.2945363094467207
+"""Wir erfahren uns als die, die den ungeheuerlichen Mut haben können und haben sollen, hoffend, liebend, betend der Unbegreiflichkeit Gottes als dem bergenden Geheimnis entgegenzugehen."" K. Rahner"	0.7054636905532793	0.2945363094467207
 @MarioBuchinger @Tevsa Und ist es für Sie problematisch, dass wenig Frauen im Straßenbau arbeiten?	0.9758251828042541	0.02417481719574592
 Auch Israel will Sie bestimmt aufnehmen.	0.9904090628477282	0.009590937152271814
 Dieser Volker Beck ist eine Gefahr für Deutschland! Gut das er nicht mehr im Bundestag sitzt. ....#maischberger	0.1991299936538823	0.8008700063461177
@@ -3146,7 +3146,7 @@ Ich wünsche Jean-Luc #Mélenchon am Sonntag viel Glück! Er allein steht für s
 @kjempeslu @connor_larkin Hören Sie jetzt auf zu trollen und bilden Sie sich erstmal - oder bleiben Sie bei Ihren Leisten.	0.9599428907314053	0.04005710926859472
 "@Durch_LAUCH_t @KWGBerlin Da müssen Sie uns verwechseln. In der Redaktion von katholisch.de gibt es weder Homophobie noch ""Islamisten-Kuscheln""."	0.9682220074366914	0.03177799256330855
 "@Georg_Pazderski Ich fordere eine ""Forschungsgruppe islamistischer Mob"""	0.2545249650802671	0.7454750349197329
-Blühe, wo du gepflanzt bist. Franz von Sales	0.9827825887347971	0.017217411265202983
+"""Blühe, wo du gepflanzt bist."" Franz von Sales"	0.9827825887347971	0.017217411265202983
 @rspctfl @Innenwelttramp @ThomasMichael71 @houelle_beck @ergroovt @ksemann2 @DrKassandraPari Sag ich ja. Du bist eine religiöse Fanatikerin.	0.730644359850025	0.2693556401499751
 @UlrichKelber @spon @fdp (Und ich kenne die Grünen noch in ihrer Anfangsphase. Glaub mir: So war und so werde ich nie. Du übrigens auch nicht. Schönen Abend!)	0.9709374180130428	0.029062581986957253
 @sigmargabriel @MartinSchulz War doch klar, dass der machtgeile Abschaum mit genau denselben Schandmäulern weiter schmarotzen will. Und der Dummgenosse geilt sich daran auf.	0.2789186138037403	0.7210813861962597
@@ -3174,7 +3174,7 @@ Das Ziel radikaler #Parteien kann realistischerweise nicht sein, eine Mehrheit i
 @montagsdemoGIDA |LBR| Hoffentlich nicht. Aber was ist mit dem Iran den er kritisiert?	0.8745371517833676	0.12546284821663245
 @BWSpricht |LBR| Weit und breit kein Neger.	0.2910357010810041	0.7089642989189959
 Die Asozialen sind längst an der Macht!	0.5309649770237804	0.4690350229762196
-Da mögen sich die Gesetze ändern wie auch immer, das ist das Bild, das Gott uns gegeben hat, sagt Kardinal Marx zur Ehe.	0.9943727293960901	0.0056272706039098485
+"""Da mögen sich die Gesetze ändern wie auch immer, das ist das Bild, das Gott uns gegeben hat"", sagt Kardinal Marx zur Ehe."	0.9943727293960901	0.0056272706039098485
 "@FeePatzer @X_crossss @Bommel_rockt Wie gesagt: ""Nein"" heißt nicht in jedem fall ""Nein"". Es kann auch heißen: ""Lass mich sehen, ob Du wirklich interessiert bist, ich spiele gerne, ich möchte schauen, ob Du Manns genug bist, Dich nicht einschüchtern zu lassen""."	0.8642801184078863	0.13571988159211368
 Lieber @jensspahn, lieber @Daniel_W_Funke, herzlichen Glückwunsch zur Hochzeit! Ich freue mich sehr für Euch!	0.9974452093226048	0.0025547906773951746
 vielleicht sollte die @aktuelleStunde auch insolvent gehen und Platz machen für eine interessante Sendung es klappt eh nichts #WDR	0.8804452110099871	0.11955478899001297
@@ -3188,7 +3188,7 @@ Bevor wir weitermachen, muss ich eines klar stellen: |LBR| Ihr seid alles Nazis!
 @El_Mocho2 @stefanolix Immer dran denken. Du gehörst zu den Menschen zweiter Klasse, die auf dem Amt ihren Ausweis zeigen müssen.	0.7243461928877812	0.27565380711221876
 "@miss_tinotschka Im Katechismus und im Messbuch steht zum Kreuzzeichen auch nicht, welche Hand die ""richtige"" ist. /fxn"	0.8495603692550228	0.1504396307449772
 @Verlierer50 Allererste gute Tat von Hasselloff	0.9983379582423991	0.0016620417576008238
-@KiraSeidel: @WHetzler @Titania0001 Ja und deshalb gehört Maas auch auf den Müll |LBR| NEIN-VOR EINEN GERICHTSHOF!	0.6044359784325598	0.3955640215674402
+"""@KiraSeidel: @WHetzler @Titania0001 Ja und deshalb gehört Maas auch auf den Müll"" |LBR| NEIN-VOR EINEN GERICHTSHOF!"	0.6044359784325598	0.3955640215674402
 Jetzt wieder die typische AfD Hetze gepaart mit dreisten Lügen.... unmöglich, Linksfaschist #Böhmermann	0.45683633047100936	0.5431636695289906
 @Wahr_Sager Weils Juden eben auch tun-erlaubt .Tierquäler gehören in die Hölle.	0.7023447952260382	0.2976552047739618
 JETZT REDET DER PFAFFE ,, Im LARVE''	0.7349807381531415	0.2650192618468586
@@ -3232,7 +3232,7 @@ da die #SPD meiner Ansicht nach nur noch aus Schleimern und Mitgliedern ohne Rü
 @rspctfl @Achtpanther @Kischeph @Volker_Beck Muslime haben genug Platz woanders. Die müssen sich nicht überall ausbreiten.	0.798560346708855	0.20143965329114497
 Wenn die SPD unter diesen Bedingungen in eine neue GroKo geht, ist ihr nicht mehr zu helfen. Bleibt zu hoffen, dass die SPD-Basis dazu in bestem Nahles-Deutsch sagen wird: Nein, bätschi!	0.9934471133245336	0.006552886675466351
 @Tom174_ @FrankyB122 @stefanolix @Die_Gruenen Ich schmeiße nichts durcheinander. Jeder der einen Fuß über die deutsche Grenze setzt, hat bereits mehrere sichere Drittstaaten durchquert. Er hat laut GG keinen Anspruch auf Asyl.	0.5134310457991997	0.48656895420080026
-Die vielen Christen, die sich für die Anliegen schutzsuchender Menschen engagieren, geben der kirchlichen #Flüchtlingshilfe ein Gesicht.	0.8730292328220117	0.12697076717798828
+"""Die vielen Christen, die sich für die Anliegen schutzsuchender Menschen engagieren, geben der kirchlichen #Flüchtlingshilfe ein Gesicht."""	0.8730292328220117	0.12697076717798828
 @weidenkatzl Es geht mir aber ums Schlachten ,töten. Wie? Vorher Betäubung oder bei lebendigen Leibe häuten ist wohl ein Unterschied.	0.9562140491719852	0.04378595082801486
 @Pflegebengel1 @MalteLehming @LisaKlaster Gut. Wir wollen Dich unter uns auch nicht.	0.9956830354410632	0.004316964558936842
 @IrisBuecker diese Verbrecherin ist nicht beschimpft worden, ihr ist die Wahrheit gesagt worden.	0.9680980870153892	0.03190191298461078
@@ -3296,11 +3296,11 @@ Man muss sich durch die kleinen Gedanken, die einen ärgern, immer wieder hindur
 @mountainman1977 @MiataMuc @MartinDomig Ich hab dieses Jahr kein Urlaub mehr (außer Weihnachten)	0.9749268454222519	0.025073154577748055
 Die Anwerberinnen bieten sich als Freundinnen und Vertraute an, um sie für die salafistische Idee anzulocken. Das kann sehr gefährlich sein und betrifft bei weitem nicht nur schlecht integrierte Frauen. Ich mahne alle Frauen davor, sich auf diese Demokratiefeinde einzulassen.	0.35612157315603266	0.6438784268439673
 @MarioBuchinger @Schneider91Ms @Tevsa @tagesschau Gleichberechtigung der Frau ist bereits lange erreicht. Individuelle Lebensweg sind Teil der Freiheit.	0.8466931887294014	0.15330681127059867
-"@InfoTweepNL: #pegida |LBR| mutti multikulti |LBR| stop #eussr |LBR| stop |LBR| So sieht Zersetzung aus!
-Botschafter einbestellen,ausweisen,US-Truppen raus aus Deutschland!
-Wenn Islamkritiker zensiert werden und über muslimische Feiertage debattiert wird, weiß man, was die Zukunft bringt.
-@GermanyWatcher @balleryna |LBR| Sehe mir auch jede Demo von Dresden und Leipzig an. Kann leider nicht selber hinfahren.
-@musevg Und ich finde Ihre Schuldzuschreibung an die SPD 2013 arg mager"". Denn die Linke hat sich da wahrlich nicht koalitionsfähig präsentiert. Dass die SPD sich - weit überwiegend - nach radikal links abzugrenzen vermag, verbuche ich auf ihrer Haben-Seite."	0.5497653385662278	0.4502346614337722
+"""@InfoTweepNL: #pegida |LBR| mutti multikulti |LBR| stop #eussr |LBR| stop |LBR| So sieht Zersetzung aus!"	0.13799156750934882	0.8620084324906512
+Botschafter einbestellen,ausweisen,US-Truppen raus aus Deutschland!	0.8981767918169458	0.1018232081830542
+Wenn Islamkritiker zensiert werden und über muslimische Feiertage debattiert wird, weiß man, was die Zukunft bringt.	0.5459134132077207	0.4540865867922793
+@GermanyWatcher @balleryna |LBR| Sehe mir auch jede Demo von Dresden und Leipzig an. Kann leider nicht selber hinfahren.	0.9385911436224016	0.06140885637759842
+"@musevg Und ich finde Ihre Schuldzuschreibung an die SPD 2013 ""arg mager"". Denn die Linke hat sich da wahrlich nicht koalitionsfähig präsentiert. Dass die SPD sich - weit überwiegend - nach radikal links abzugrenzen vermag, verbuche ich auf ihrer Haben-Seite."	0.8307201029894162	0.16927989701058382
 nun kristallisieren sich die #Politiker und die #Parteien ohne Rückgrat heraus #Grüne #FDP #Lindner	0.5077701426793676	0.4922298573206324
 @Rudisagmal Aber den Weg nach GER hat er gefunden, dafür und für die Straftaten reichten die geistigen Kapazitäten dann doch noch.	0.35718461254452094	0.6428153874554791
 @cicero_online Würde lieber lesen, dass er jämmerlich verreckt ist	0.9801021010593999	0.019897898940600168
@@ -3376,39 +3376,39 @@ Moralische Bankrotterklärung v. #Merkel: Schulterschluss mit #Erdogan &amp; kei
 Wünsche allen ,die mir Folgen und denen Ich folge alle die mich mögen oder auch nicht ,ein gutes neues Jahr 2018!!!!	0.937303324359305	0.06269667564069507
 @RolandBauer11 @Caroline_Aus @LMU_Muenchen @BMFSFJ AUCH #LSBTIQ haben ein Recht auf Familiengründung. Wir sprechen hier von einem einschließenden, nicht von einem ausschließlichen Recht.	0.9073859838018612	0.09261401619813876
 #Polizeiruf 110 ist heute nur sterbenslangweilig da schalte ich ab #ARD	0.5401868342253997	0.4598131657746003
-"@endlosfrei: Merkel bricht geltendes Gesetz - und Kirche spendet Beifall |LBR| DER ABSCHAUM!
-@stefanolix @LucasSchoppe1 Vor allem: Was hat ein deutsches Antidiskriminerungsgesetz mit israelischen Staatsbürgern zu tun?
-@Tschonka @ThomasMichael71 @PBahners Zum Beispiel. Ein anderes wäre: Witze über Minderheiten. Es ist ein perfektes Einfallstor für den Opferkult.
-Frauen haben bereits zwei Tage lang niemanden mehr der sexuellen Belästigung bezichtigt. |LBR| Was ist da los? Gibt es Schuhe und Handtaschen im Sonderangebot? |LBR| #MeToo
-@Stef_Egli @kelghazzali @NZZ Der Grundsatz gilt für verschleierte Frauen. |LBR| Die Problematik besteht vielmehr darin, dass es das perverse Konzept der Burka überhaupt gibt.
-#Fakt: 9 von 10 #Flüchtlingen leben in #Entwicklungsländern.
-Hat er vorher genug Befehle gegeben?
-@BlondJedi @RTLde Was lässt sich die Blöde auch mit Neger ein?
-@rspctfl @Innenwelttramp @ThomasMichael71 @houelle_beck @ergroovt @ksemann2 @DrKassandraPari Wir haben mittlerweile alle den Koran und die Hadithe gelesen. Taqiyya funktioniert nicht mehr.
-@Meyermit_ey @larsklingbeil Na ob man das als Fair bezeichnen kann wenn der Juso Vorsitzende mit falschen Angaben bei der Rente gegen die GroKo Stimmung macht wage ich zu bezweifeln!
-@Meyermit_ey @maurice_breuer Auch diese Tabelle zeigt doch deutlich, dass die, die sowieso mehr haben, noch mehr kriegen als diejenigen, die es wirklich brauchen. /TN
-@JoeHellBack @ThomasMichael71 @alexa_jung60 @Tschonka @Mohrenpost Ich ziehe all das einer Gesellschaft mit einem großen Anteil an Muslimen vor.
-Im kriegsgebeutelten #Jemen sind 90 Fälle von #Cholera bestätigt worden. Bereits 8 Menschen starben an der Krankheit (Zahlen vom 17.11.2016)
-Schuld das unsere Demokratie jetzt darunter leidet das wir noch keine Regierung haben, ist und bleibt die @fdp UND @c_lindner ! Diese Partei hat extrem Deutschland geschadet und muss zur nächsten Bundestagswahl verhindert werden. Raus und diesmal für immer.
-@KonseqLiberal @MiataMuc Glaub ihm nicht alles. Sexuelle Anziehungskraft ist bei Männern nicht vom Beruf abhängig.
-@HaraldRostock @anna_IIna ..ich freue mich auch ⁉ 💩
-@KonseqLiberal Nein, ich träume nicht davon, dass Frauen mit mir schlafen wollen.
-@mountainman1977 @ZeichenTaten @ThomasMichael71 Richtig. Die Industrialisierung der Landwirtschaft war ein entscheidender Faktor um aus dem Kreislauf Armut auszubrechen.
-Ab heute in Kraft ,,Netzwerkdurchsetzungsgesetz''!!! Aufpassen was ihr in Zukunft schreibt!!!
-@JoeHellBack @ThomasMichael71 @nigromontanus_ @alexa_jung60 @Tschonka @Mohrenpost Ich sehe Menschen, die besorgt sind um die Zukunft ihres Landes. Ebenso wie ich besorgt bin.
-@MKaltental Ich habe von HartzIV gelebt.
-Wer behauptet, die Interessen des Volkes zu vertreten, dem sollte man keinen Glauben schenken - zu oft wurde schon in dessen Name Verbrechen begangen. #NoAfD #AfD
-Lassen wir sie nur wehklagen,lassen wir sie zittern!
-@RudigerKirsch @heuteshow Wenn Du Betrug mit Kinderficken vergleichst, dann bin ich lieber in der anderen Ecke.
-@aberth66 @MatthiasMeisner 1. Es gibt keine Islamisierung. Das Sterben der christlichen Kirchen hat sich die Religion selbst zuzuschreiben. |LBR| 2. Kindesmissbrauch, Vergewaltigungen, häusliche Gewalt kamen nicht erst 2015. Dies ist schon lange ein großes Problem in Deutschland.
-@patriarchator @gentlemind_tim @davidbest95 Oder indem man Religion als den Schwachsinn behandelt, der sie ist.
-#Merkel wird durch #Jamaika die #CDU unkenntlich machen oder die Regierung hält keine vier Jahre #btwahl2017 Gott sei Dank
-fast hätte ich sie verpasst die Moderatorin der @AktuelleStunde mit der schmoddrigen schwarzen Hose und den fettigen Haaren #WDR
-@Gwen_Ny_ @MiataMuc @ericcartmensmum @HelgeThiessen Die Emanzipation des Mannes steht ja noch bevor.
-@spdde @thyssenkrupp Lieber hundert Stimmen für die #AFD als eine Stimme für die #Scheinheilgste Partei Deutschlands
-#Türken sind doch zu blöd für #Fußball die können nur mit #Ziegen #RTL
-@Christoph_Hi Die Endogamieregel und das Kastensystem wurden im 12. Jahrhundert von dem jesidischen Reformator Sex Adi eingeführt. |LBR| Falls es dich interessiert :). Es handelt sich also selbst um eine Reform.
-@Schwulemiker Tja in deine Logik"" passt dann aber nicht, dass die Studie vom Deutschen Institut für Wirtschaftsforschung gemacht wurde"	0.49455822819777917	0.5054417718022208
+"""@endlosfrei: Merkel bricht geltendes Gesetz - und Kirche spendet Beifall |LBR| DER ABSCHAUM!"	0.059957800658494764	0.9400421993415052
+@stefanolix @LucasSchoppe1 Vor allem: Was hat ein deutsches Antidiskriminerungsgesetz mit israelischen Staatsbürgern zu tun?	0.9484673925142874	0.05153260748571268
+@Tschonka @ThomasMichael71 @PBahners Zum Beispiel. Ein anderes wäre: Witze über Minderheiten. Es ist ein perfektes Einfallstor für den Opferkult.	0.8467553914580108	0.15324460854198918
+Frauen haben bereits zwei Tage lang niemanden mehr der sexuellen Belästigung bezichtigt. |LBR| Was ist da los? Gibt es Schuhe und Handtaschen im Sonderangebot? |LBR| #MeToo	0.546923126913144	0.453076873086856
+@Stef_Egli @kelghazzali @NZZ Der Grundsatz gilt für verschleierte Frauen. |LBR| Die Problematik besteht vielmehr darin, dass es das perverse Konzept der Burka überhaupt gibt.	0.5570570035124645	0.4429429964875356
+#Fakt: 9 von 10 #Flüchtlingen leben in #Entwicklungsländern.	0.17599731625403714	0.8240026837459629
+Hat er vorher genug Befehle gegeben?	0.7304287881637305	0.26957121183626953
+@BlondJedi @RTLde Was lässt sich die Blöde auch mit Neger ein?	0.4708653526232076	0.5291346473767924
+@rspctfl @Innenwelttramp @ThomasMichael71 @houelle_beck @ergroovt @ksemann2 @DrKassandraPari Wir haben mittlerweile alle den Koran und die Hadithe gelesen. Taqiyya funktioniert nicht mehr.	0.5152226006986218	0.48477739930137825
+@Meyermit_ey @larsklingbeil Na ob man das als Fair bezeichnen kann wenn der Juso Vorsitzende mit falschen Angaben bei der Rente gegen die GroKo Stimmung macht wage ich zu bezweifeln!	0.9337873131438282	0.06621268685617178
+@Meyermit_ey @maurice_breuer Auch diese Tabelle zeigt doch deutlich, dass die, die sowieso mehr haben, noch mehr kriegen als diejenigen, die es wirklich brauchen. /TN	0.2530043498127976	0.7469956501872024
+@JoeHellBack @ThomasMichael71 @alexa_jung60 @Tschonka @Mohrenpost Ich ziehe all das einer Gesellschaft mit einem großen Anteil an Muslimen vor.	0.8975917376477592	0.1024082623522408
+Im kriegsgebeutelten #Jemen sind 90 Fälle von #Cholera bestätigt worden. Bereits 8 Menschen starben an der Krankheit (Zahlen vom 17.11.2016)	0.675184464014106	0.3248155359858939
+Schuld das unsere Demokratie jetzt darunter leidet das wir noch keine Regierung haben, ist und bleibt die @fdp UND @c_lindner ! Diese Partei hat extrem Deutschland geschadet und muss zur nächsten Bundestagswahl verhindert werden. Raus und diesmal für immer.	0.9326198758295726	0.06738012417042735
+@KonseqLiberal @MiataMuc Glaub ihm nicht alles. Sexuelle Anziehungskraft ist bei Männern nicht vom Beruf abhängig.	0.9830974273963935	0.016902572603606555
+@HaraldRostock @anna_IIna ..ich freue mich auch ⁉ 💩	0.9931035781820859	0.006896421817914073
+@KonseqLiberal Nein, ich träume nicht davon, dass Frauen mit mir schlafen wollen.	0.9595199268709403	0.04048007312905967
+@mountainman1977 @ZeichenTaten @ThomasMichael71 Richtig. Die Industrialisierung der Landwirtschaft war ein entscheidender Faktor um aus dem Kreislauf Armut auszubrechen.	0.31959528402065096	0.680404715979349
+Ab heute in Kraft ,,Netzwerkdurchsetzungsgesetz''!!! Aufpassen was ihr in Zukunft schreibt!!!	0.6988250388296298	0.3011749611703702
+@JoeHellBack @ThomasMichael71 @nigromontanus_ @alexa_jung60 @Tschonka @Mohrenpost Ich sehe Menschen, die besorgt sind um die Zukunft ihres Landes. Ebenso wie ich besorgt bin.	0.782973529860996	0.217026470139004
+@MKaltental Ich habe von HartzIV gelebt.	0.880695313855139	0.11930468614486099
+Wer behauptet, die Interessen des Volkes zu vertreten, dem sollte man keinen Glauben schenken - zu oft wurde schon in dessen Name Verbrechen begangen. #NoAfD #AfD	0.95438877139829	0.04561122860170997
+Lassen wir sie nur wehklagen,lassen wir sie zittern!	0.9684048110922192	0.03159518890778077
+@RudigerKirsch @heuteshow Wenn Du Betrug mit Kinderficken vergleichst, dann bin ich lieber in der anderen Ecke.	0.983397365738265	0.01660263426173498
+@aberth66 @MatthiasMeisner 1. Es gibt keine Islamisierung. Das Sterben der christlichen Kirchen hat sich die Religion selbst zuzuschreiben. |LBR| 2. Kindesmissbrauch, Vergewaltigungen, häusliche Gewalt kamen nicht erst 2015. Dies ist schon lange ein großes Problem in Deutschland.	0.12059593498343835	0.8794040650165617
+@patriarchator @gentlemind_tim @davidbest95 Oder indem man Religion als den Schwachsinn behandelt, der sie ist.	0.2505126029911846	0.7494873970088154
+#Merkel wird durch #Jamaika die #CDU unkenntlich machen oder die Regierung hält keine vier Jahre #btwahl2017 Gott sei Dank	0.9344776168277835	0.06552238317221652
+fast hätte ich sie verpasst die Moderatorin der @AktuelleStunde mit der schmoddrigen schwarzen Hose und den fettigen Haaren #WDR	0.8394964582041656	0.16050354179583434
+@Gwen_Ny_ @MiataMuc @ericcartmensmum @HelgeThiessen Die Emanzipation des Mannes steht ja noch bevor.	0.9984757159167831	0.0015242840832168838
+@spdde @thyssenkrupp Lieber hundert Stimmen für die #AFD als eine Stimme für die #Scheinheilgste Partei Deutschlands	0.9718102912827837	0.02818970871721621
+#Türken sind doch zu blöd für #Fußball die können nur mit #Ziegen #RTL	0.20687107410907446	0.7931289258909255
+@Christoph_Hi Die Endogamieregel und das Kastensystem wurden im 12. Jahrhundert von dem jesidischen Reformator Sex Adi eingeführt. |LBR| Falls es dich interessiert :). Es handelt sich also selbst um eine Reform.	0.30572911850386486	0.6942708814961351
+"@Schwulemiker Tja in deine ""Logik"" passt dann aber nicht, dass die Studie vom Deutschen Institut für Wirtschaftsforschung gemacht wurde"	0.9558933969726721	0.04410660302732797
 @Claudia_Mertes Und warum darf ick kein Symbol verbrennen?	0.9084686823359005	0.09153131766409953
 Nicht #Orban ist mit seiner Politik isoliert sondern #Merkel mit ihrer. #tagesschau #hartaberfair	0.5471139111278502	0.4528860888721497
 "@tagesspiegel du und die Kipping ihr seid die größten ""Schädlinge"" der Partei!"	0.3726134035721881	0.6273865964278119
@@ -3433,7 +3433,7 @@ Kapitales Versagen in sächsischer JVA mit PK nicht geklärt! Unauffälliger Gef
 @alexabringmann @MullSSL Das Urteil ist ohne Bewährung, trotzdem kann sie noch Berufung einlegen.	0.9101073472082212	0.0898926527917788
 wann werden wir endlich diese #Merkel los #CDU	0.6032496184041904	0.3967503815958095
 @AfD_Support |LBR| Na dann Gute Nach Deutschland.	0.986122502968737	0.013877497031262965
-@JoeyGerlach: @WHetzler #afd #Pegida Der gemeine Soze ist kein schlechter Mensch. Er hat nur viel Pech beim nachdenken.Ein SoZi denkt nie.	0.8961814530983228	0.10381854690167723
+"""@JoeyGerlach: @WHetzler #afd #Pegida Der gemeine Soze ist kein schlechter Mensch. Er hat nur viel Pech beim nachdenken.""Ein SoZi denkt nie."	0.8961814530983228	0.10381854690167723
 @anna_IIna Die Deutschen werden langsam aber sicher wieder Weltmacht und wachen auf zum Widerstand gegen ihre Feinde!	0.5809131642104159	0.4190868357895841
 Geflüchtete brauchen keine Sanktionsandrohungen,sondern erst mal Zeit,sich von unmenschlichen Strapazen zu erholen,so #TBB #deMaiziere	0.4157443223160082	0.5842556776839918
 @GDhring @NiemaMovassat Im Gegensatz zu den Sozialschmarotzern, die hier her kommen, sind dort tatsächlich Flüchtlinge unterwegs.	0.5246390382326749	0.4753609617673252
