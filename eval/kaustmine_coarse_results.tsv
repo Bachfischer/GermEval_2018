@@ -1,0 +1,5 @@
+		Accuracy			Offense			Other			Average		
+TeamID	RunID	Percent	correct	total	P	R	F	P	R	F	P	R	F
+KAUSTmine	coarse_1	70.1	2476	3532	60.22	35.77	44.89	72.6	87.81	79.49	66.41	61.79	64.02
+KAUSTmine	coarse_2	72.93	2576	3532	61.41	55.07	58.07	78	82.15	80.02	69.7	68.61	69.15
+KAUSTmine	coarse_3	68.29	2412	3532	52.92	61.9	57.06	78.46	71.59	74.87	65.69	66.74	66.21
